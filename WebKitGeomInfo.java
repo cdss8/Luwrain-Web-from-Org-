@@ -125,9 +125,10 @@ public final class WebKitGeomInfo {
 		}
 		writer2.write("\n\n\n");
 
-		this.nodes = new HashMap<>();
+		// this.nodes = new HashMap<>();
+		// this.nodes = nodes;
 
-		Map<Node, Item> nodes = getNodes();
+		Map<Node, Item> retrieveNodes = getNodes();
 		// retrieving the nodes of the Map
 
 		// iterating with the properties of the nodes
