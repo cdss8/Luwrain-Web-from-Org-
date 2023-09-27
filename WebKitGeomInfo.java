@@ -21,16 +21,21 @@ import java.util.*;
 import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
-
 import java.io.*; //file
 
 import org.w3c.dom.NodeList;
 
 import javafx.scene.web.WebEngine;
 
+import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.Node;
 import org.w3c.dom.html.HTMLDocument;
+import org.w3c.dom.html.HTMLElement;
 import org.w3c.dom.views.DocumentView;
+import org.w3c.dom.Element;
+
+import java.math.*;
+import java.util.regex.*;
 
 import com.sun.jdi.connect.Connector.IntegerArgument;
 import com.sun.webkit.dom.DOMWindowImpl;
@@ -46,25 +51,20 @@ import java.lang.System;
 import static org.luwrain.graphical.FxThread.*;
 import static org.luwrain.web.WebKitGeom.*;
 
+import java.util.concurrent.*;
+
+//Инициализация WebEngine, JSObject для получения доступа к DOM в браузере внутри LUWRAIN
+
 public final class WebKitGeomInfo {
 	private final WebEngine engine;
 	private final JSObject src, root;
 	private final HTMLDocument doc;
 	private final DOMWindowImpl window;
 
-	// Logger logger = Logger.getLogger("MyLogInfo");
-	// FileHandler fh;
-
 	final Map<Node, Item> nodes = new HashMap<>();
+	Stack<Element> stack = new Stack<>();
 
 	WebKitGeomInfo(WebEngine engine, JSObject src) throws IOException {
-
-		// File file = new File("Test.txt");
-		// PrintWriter test = new PrintWriter(new FileWriter("Geometry.txt"));
-		// PrintWriter test = new PrintWriter("Geometry.txt");
-		// FileOutputStream test = new FileOutputStream("Geometry.txt");
-		// ObjectOutputStream ObjTest = new ObjectOutputStream(test);
-		// logg.info("Injection data read start!");
 
 		ensure();
 		this.engine = engine;
@@ -74,11 +74,10 @@ public final class WebKitGeomInfo {
 		this.root = (JSObject) src.getMember("dom");
 		Object o;// = new Object();
 
+		// создание файла для посмотря результатов в виде txt
 		File file2 = new File("WebKitGeomInfo Test.txt");
 		FileWriter writer2 = new FileWriter("WebKitGeomInfo Test.txt");
 		writer2.write("Hello world! 1\n");
-
-		// Map nodes = new Map(); initializing the nodes
 
 		for (int i = 0; !(o = root.getSlot(i)).getClass().equals(String.class); i++) {
 
@@ -114,7 +113,7 @@ public final class WebKitGeomInfo {
 					}
 				}
 
-				// Taking the data
+				// получение данных
 				if (text.equals("123") == false && text.isBlank() == false) {
 
 					nodes.put(node, new Item(x, y, width, height, String.valueOf(text)));
@@ -123,47 +122,103 @@ public final class WebKitGeomInfo {
 				}
 			}
 		}
-		writer2.write("\n\n\n");
+
+		Log.debug(LOG_COMPONENT, "geom scanning completed: " + nodes.size());
+		writer2.close();
+
+		// отработка нодов
+		traverseNodesDFS();
 
 		// this.nodes = new HashMap<>();
 		// this.nodes = nodes;
 
-		Map<Node, Item> retrieveNodes = getNodes();
-		// retrieving the nodes of the Map
+		try (FileWriter writer3 = new FileWriter("WebKitGeomInfo Node Test.txt")) {
 
-		// iterating with the properties of the nodes
-		for (Map.Entry<Node, Item> entry : nodes.entrySet()) {
-			Node nod = entry.getKey();
-			WebKitGeomInfo.Item item = entry.getValue();
+			// 3. Проверка корректности получения геометрии для выделенных тего
+			Map<Node, Item> nodes = getNodes();
+			// Map<Node, Item> retrieveNodes = getNodes();
+			// получение узлов Map
 
-			// Access to properties of the nodes and item
-			int x = item.x;
-			int y = item.y;
-			int width = item.width;
-			int height = item.height;
-			String text = item.text;
+			// итерация со свойствами узлов
+			for (Map.Entry<Node, Item> entry : nodes.entrySet()) {
+				Node node = entry.getKey();
+				Item item = entry.getValue();
 
-			try {
-				writer2.write("Node: " + nod.getNodeName() + "\n");
-				writer2.write("Geometry: x=" + x + ", y=" + y + ", width=" + width + ", height=" + height + "\n");
-				writer2.write("Text: " + text + "\n");
-				writer2.write("-------------------\n");
-			} catch (IOException e) {
-				e.printStackTrace(System.err);
-			} catch (Exception e) {
-				e.printStackTrace(System.err);
+				// 4. Пересчет геометрии под новыми координатами
+				// Доступ к свойствам узлов и элемента
+				int x = item.x;
+				int y = item.y;
+				int width = item.width;
+				int height = item.height;
+				String text = item.text;
+
+				// вывод в txt
+				try {
+					writer3.write("Node: " + NodeName(node) + "\n");
+					writer3.write("Geometry: x=" + x + ", y=" + y + ", width=" + width + ", height=" + height + "\n");
+					writer3.write("Text: " + text + "\n");
+					writer3.write("-------------------\n");
+				} catch (IOException e) {
+					e.printStackTrace(System.err);
+				} catch (Exception e) {
+					e.printStackTrace(System.err);
+				}
 			}
+
+			writer3.flush();
+			writer3.close();
+
+		} catch (IOException e) {
+			e.printStackTrace(System.err);
+		} catch (Exception e) {
+			e.printStackTrace(System.err);
 		}
-
-		Log.debug(LOG_COMPONENT, "geom scanning completed: " + nodes.size());
-
-		writer2.close();
 	}
 
 	public Map<Node, Item> getNodes() {
 		return nodes;
 	}
 
+	// Доставление нодов
+	public String NodeName(Node node) {
+		String nodeName = "";
+
+		// Проверка тип узла и установление подходящего имена.
+		switch (node.getNodeType()) {
+
+			// получение названия тега
+			case Node.ELEMENT_NODE:
+				// nodeName = ((Element) node).getTagName(); //не конвертирует стринг на элемент
+				// nodeName = NodeName(node);
+				nodeName = node.getNodeName();
+				break;
+
+			// Получение текста
+			case Node.TEXT_NODE:
+				nodeName = "#text-Node";
+				String nodeValue = node.getNodeValue();
+				if (nodeValue != null) {
+					nodeName += ": " + nodeValue.trim();
+				}
+				break;
+
+			// Получение коментарий
+			case Node.COMMENT_NODE:
+				nodeName = "#Сomment-Node";
+				String commentValue = node.getNodeValue();
+				if (commentValue != null) {
+					nodeName += ": " + commentValue.trim();
+				}
+				break;
+
+			default:
+				nodeName = "Unknown";
+				break;
+		}
+		return nodeName;
+	}
+
+	// Конвертация значения геометрия на number
 	static int intValue(Object o) {
 		if (o == null)
 			return 0;
@@ -172,7 +227,7 @@ public final class WebKitGeomInfo {
 		return Double.valueOf(Double.parseDouble(o.toString())).intValue();
 	}
 
-	// converting the value to int
+	// Конвертация значения геометрия на int
 	public static int toInt(Object obj) {
 		if (obj instanceof Integer) {
 			return ((Integer) obj);
@@ -187,6 +242,7 @@ public final class WebKitGeomInfo {
 		return 0;
 	}
 
+	// Геомерия тега
 	static public final class Item {
 		public final int x, y, width, height;
 		public final String text;
@@ -200,8 +256,10 @@ public final class WebKitGeomInfo {
 		}
 	}
 
+	// Вызов метода, который выполняет обход DOM-модели в глубину и позволяет
+	// обработать каждый узел
 	public void traverseNodesDFS() {
-		Set<Node> visited = new HashSet<>(); // creating a visiting set to keep track of visited nodes
+		Set<Node> visited = new HashSet<>(); // создание набора посещений для отслеживания посещенных узлов
 
 		for (Node node : nodes.keySet()) {
 			if (!visited.contains(node)) {
@@ -211,14 +269,46 @@ public final class WebKitGeomInfo {
 	}
 
 	private void dfs(Node node, Set<Node> visited) {
-		visited.add(node); // marking nodes as visited adding them to a visited set
+		visited.add(node); // маркировка узлов как посещенные, добавление их в посещенный набор
 
 		NodeList children = node.getChildNodes();
-		// Recursively traversing the child nodes
+
+		// Рекурсивный обход дочерних узлов.
 		for (int i = 0; i < children.getLength(); i++) {
 			Node child = children.item(i);
 			if (!visited.contains(child)) {
 				dfs(child, visited);
+			}
+		}
+
+		if (node instanceof HTMLElement) {
+			HTMLElement element = (HTMLElement) node; // Проверка узел на HTMLElement
+			String NodeTagName = element.getTagName(); // получение доступа к свойвам тега
+
+			// Выделение тега с Контентом
+			if (NodeTagName.equals("a") || NodeTagName.equals("span")
+					|| NodeTagName.equals("p") || NodeTagName.equals("div") ||
+					NodeTagName.equals("h1") || NodeTagName.equals("h2") ||
+					NodeTagName.equals("h3") || NodeTagName.equals("h4") ||
+					NodeTagName.equals("h5") || NodeTagName.equals("h6") ||
+					NodeTagName.equals("ul") || NodeTagName.equals("ol") ||
+					NodeTagName.equals("li") || NodeTagName.equals("table") ||
+					NodeTagName.equals("tr") || NodeTagName.equals("th") ||
+					NodeTagName.equals("td") || NodeTagName.equals("form") ||
+					NodeTagName.equals("input") || NodeTagName.equals("textarea") ||
+					NodeTagName.equals("select") || NodeTagName.equals("button")) {
+				stack.push(element); // Получение тега в стек для форматирования
+			}
+
+			// System.out.println("Visited Node: " + NodeTagName);
+			// Результат в txt
+			try (FileWriter writer4 = new FileWriter("VisitedNodes.txt", true)) {
+				writer4.write("Visited Node: " + NodeTagName + "\n");
+
+				writer4.flush();
+				writer4.close();
+			} catch (IOException e) {
+				e.printStackTrace();
 			}
 		}
 	}
