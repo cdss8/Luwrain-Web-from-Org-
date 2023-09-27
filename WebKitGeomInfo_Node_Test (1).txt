@@ -1,0 +1,1075 @@
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=44
+Text: Open Source
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: 0 of 18 challenges completed
+-------------------
+Node: Unknown
+Geometry: x=44, y=0, width=0, height=47
+Text: Expand course
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=97, y=0, width=0, height=22
+Text: Sign in
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=859
+Text: React and Redux are often mentioned together, and with good reason. The developer who created Redux was a React developer who wanted to make it easier to share data across different components.
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: ,
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Python Lambda Functions
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=94
+Text: Front End Development Libraries Certification
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: English
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Different Casings Explained
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: ,
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=72
+Text: Build a Drum Machine
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=643
+Text: While you can use Redux with any view library, we introduce Redux here before combining it with React in the next set of courses.
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=913
+Text: It's time to put your front end development libraries skills to the test. Use Bootstrap, jQuery, Sass, React, and Redux to build 5 projects that will test everything you've learned up to this point.
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=72
+Text: Center Text with Bootstrap
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=72
+Text: Split Your Bootstrap Row
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=122
+Text: Apply the Default Bootstrap Button Style
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=118
+Text: (New) Foundational C# with Microsoft Certification
+-------------------
+Node: Unknown
+Geometry: x=15, y=0, width=0, height=109
+Text: freeCodeCamp is a donor-supported tax-exempt 501(c)(3) charitable organization (United States Federal Tax Identification Number: 82-0779546)
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=44
+Text: Academic Honesty
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Português
+-------------------
+Node: Unknown
+Geometry: x=15, y=0, width=0, height=697
+Text: Now that you're familiar with HTML, CSS, and JavaScript, level up your skills by learning some of the most popular front end libraries in the industry.
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: News
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Night Mode
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Forum
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Contribute
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Sign in
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=1372
+Text: Now that you know how to manage the flow of shared data with Redux, it's time to combine that knowledge with React. In the React and Redux courses, you'll build a React component and learn how to manage state locally at the component level, and throughout the entire application with Redux.
+-------------------
+Node: Unknown
+Geometry: x=44, y=0, width=0, height=47
+Text: Expand course
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=122
+Text: Call out Optional Actions with btn-info
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=72
+Text: Label Bootstrap Buttons
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Merge Arrays in JS
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=23
+Text: Trending Guides
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: HTML New Line
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=44
+Text: Code of Conduct
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=69
+Text: Terms of Service
+-------------------
+Node: Unknown
+Geometry: x=15, y=0, width=0, height=820
+Text: Front End Development Libraries
+-------------------
+Node: Unknown
+Geometry: x=43, y=0, width=0, height=22
+Text: SASS
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: 0/9
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: 0 of 10 challenges completed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=172
+Text: Warn Your Users of a Dangerous Action with btn-danger
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=70
+Text: Responsive Web Design Certification
+-------------------
+Node: Unknown
+Geometry: x=15, y=0, width=0, height=1456
+Text: Browse our other free certifications
+(we recommend doing these in order)
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Principle of Least Privilege
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=44
+Text: Copyright Policy
+-------------------
+Node: Unknown
+Geometry: x=15, y=0, width=0, height=189
+Text: Courses
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=99
+Text: SASS
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Curriculum
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Sign in to change theme.
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: 
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57R6KJM&gtm_auth=&gtm_preview=&gtm_cookies_win=x"
+        height="0" width="0" style="display:none;visibility:hidden" id="tag-manager"></iframe>
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=122
+Text: Create a Block Element Bootstrap Button
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=72
+Text: Responsively Style Radio Buttons
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=94
+Text: Data Analysis with Python Certification
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Data Structures & Algorithms
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=44
+Text: Alumni Network
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Italiano
+-------------------
+Node: Unknown
+Geometry: x=15, y=0, width=0, height=616
+Text: Later, you'll build a shopping cart and other applications to learn how to create powerful Single Page Applications (SPAs) with React and Redux.
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: ,
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Donate
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=43, y=0, width=0, height=22
+Text: React and Redux
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=97
+Text: Build a 25 + 5 Clock
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: JS .reverse() Function
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=94
+Text: Machine Learning with Python Certification
+-------------------
+Node: Unknown
+Geometry: x=15, y=0, width=0, height=79
+Text: Donations to freeCodeCamp go toward our education initiatives, and help pay for servers, services, and staff.
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: sizeof Operator in C
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=122
+Text: React
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=643
+Text: In this course, you'll learn how to create different React components, manage data in the form of state props, use different lifecycle methods like 
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: What is Prim’s Algorithm?
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=19
+Text: Support
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: 日本語
+-------------------
+Node: Unknown
+Geometry: x=15, y=0, width=0, height=886
+Text: In the Front End Development Libraries Certification, you'll learn how to style your site quickly with Bootstrap. You'll also learn how to add logic to your CSS styles and extend them with Sass.
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: 0 of 31 challenges completed
+-------------------
+Node: Unknown
+Geometry: x=44, y=0, width=0, height=47
+Text: Expand course
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=306
+Text: React and Redux
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=72
+Text: Create a Bootstrap Row
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Python String to Datetime
+-------------------
+Node: Unknown
+Geometry: x=15, y=0, width=0, height=102
+Text: Earn free professional certifications:
+-------------------
+Node: Unknown
+Geometry: x=15, y=0, width=0, height=174
+Text: Prepare for the developer interview job search:
+-------------------
+Node: Unknown
+Geometry: x=15, y=0, width=0, height=52
+Text: make a tax-deductible donation here
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Exponents in Python
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=994
+Text: As applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a "predictable state container for JavaScript apps" that helps ensure your apps work predictably, and are easier to test.
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: ,
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=346
+Text: Complete all 5 projects, and you'll earn the Front End Development Libraries certification.
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=122
+Text: Add Font Awesome Icons to all of our Buttons
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=15, y=0, width=0, height=199
+Text: Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=156, height=19
+Text: enumerate() in Python
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Escape a String in JS
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: 0 of 47 challenges completed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Español
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=19
+Text: Sponsors
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=940
+Text: Bootstrap is a front end framework used to design responsive web pages and applications. It takes a mobile-first approach to web development, and includes pre-built CSS styles and classes, plus some JavaScript functionality.
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: 0 of 9 challenges completed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: 0/17
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=97
+Text: Ditch Custom CSS for Bootstrap
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=122
+Text: Add Font Awesome Icons to our Buttons
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: What is a REST API?
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=94
+Text: Scientific Computing with Python Certification
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=70
+Text: Coding Interview Prep
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: JS Check for Null
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Java List Example
+-------------------
+Node: Unknown
+Geometry: x=35, y=0, width=0, height=21
+Text: componentDidMount
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: 中文（简体字）
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=40
+Text: Our Charity
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=214
+Text: Bootstrap
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=724
+Text: In this course, you'll learn how to build responsive websites with Bootstrap, and use its included classes to style buttons, images, forms, navigation, and other common elements.
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=751
+Text: In this Sass course, you'll learn how to store data in variables, nest CSS, create reusable styles with mixins, add logic and loops to your styles, and more.
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Front End Development Libraries Certification | freeCodeCamp.org
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=172
+Text: Use the Bootstrap Grid to Put Elements Side By Side
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=97
+Text: Use Comments to Clarify Code
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=70
+Text: Information Security Certification
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Python Datetime.now()
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: 0/47
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=19
+Text: Shop
+-------------------
+Node: Unknown
+Geometry: x=43, y=0, width=0, height=22
+Text: Bootstrap
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=43, y=0, width=0, height=22
+Text: Redux
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=72
+Text: Create a Bootstrap Headline
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=147
+Text: Give Each Element a Unique id
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=118
+Text: JavaScript Algorithms and Data Structures Certification
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=70
+Text: Data Visualization Certification
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=94
+Text: College Algebra with Python Certification
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Int to String in Java
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Python Slicing
+-------------------
+Node: Unknown
+Geometry: x=43, y=0, width=0, height=22
+Text: React
+-------------------
+Node: Unknown
+Geometry: x=-1000, y=57, width=0, height=22
+Text: Skip to content
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: 中文（繁體字）
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=44, y=0, width=0, height=47
+Text: Collapse course
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=346
+Text: jQuery is one of the most widely used JavaScript libraries in the world.
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: 0/10
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=147
+Text: Add Elements within Your Bootstrap Wells
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=147
+Text: Create a Class to Target with jQuery Selectors
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: JS Modulo Operator
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=94
+Text: Back End Development and APIs Certification
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=46
+Text: Project Euler
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: What is an Algorithm?
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: JavaScript Range
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=104
+Text: , and much more.
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=44
+Text: Privacy Policy
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=535
+Text: In this course, you'll learn how to use jQuery to select, remove, clone, and modify different elements on the page.
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: ,
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=967
+Text: Sass, or "Syntactically Awesome StyleSheets", is a language extension of CSS. It adds features that aren't available in basic CSS, which make it easier for you to simplify and maintain the style sheets for your projects.
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=122
+Text: Redux
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=535
+Text: In this course, you'll learn the fundamentals of Redux stores, actions, reducers and middleware to manage data throughout your application.
+-------------------
+Node: Unknown
+Geometry: x=44, y=0, width=0, height=47
+Text: Expand course
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: 0 of 17 challenges completed
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=835
+Text: Front End Development Libraries Projects
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=97
+Text: Make Images Mobile Responsive
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=122
+Text: Style Text Inputs as Form Controls
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: JavaScript Encoding
+-------------------
+Node: Unknown
+Geometry: x=15, y=0, width=0, height=198
+Text: Earn free verified certifications with freeCodeCamp's core curriculum:
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Python Length of List
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: What is SQL?
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=724
+Text: React combines HTML with JavaScript functionality into its own markup language called JSX. React also makes it easy to manage the flow of data throughout the application.
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=97
+Text: Build a Random Quote Machine
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Menu
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=122
+Text: Taste the Bootstrap Button Color Rainbow
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=122
+Text: Use a span to Target Inline Elements
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=72
+Text: Label Bootstrap Wells
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=122
+Text: Add id Attributes to Bootstrap Elements
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Python Remove from String
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=188
+Text: Sign in to save your progress (it's free)
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=70
+Text: Relational Database Certification
+-------------------
+Node: Unknown
+Geometry: x=15, y=0, width=0, height=22
+Text: You can 
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=481
+Text: React is a popular JavaScript library for building reusable, component-driven user interfaces for web pages or applications.
+-------------------
+Node: Unknown
+Geometry: x=44, y=0, width=0, height=47
+Text: Expand course
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: 0/31
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=940
+Text: In 2006 when it was released, all major browsers handled JavaScript slightly differently. jQuery simplified the process of writing client-side JavaScript, and also ensured that your code worked the same way in all browsers.
+-------------------
+Node: Unknown
+Geometry: x=65, y=0, width=0, height=22
+Text: Menu
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=72
+Text: Create a Bootstrap Button
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Radio
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=172
+Text: Use Responsive Design with Bootstrap Fluid Containers
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=147
+Text: House our page within a Bootstrap container-fluid div
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=72
+Text: Create Bootstrap Wells
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=97
+Text: Create a Custom Heading
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=72
+Text: Responsively Style Checkboxes
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: JavaScript Get Request
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Sign in
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: .
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: ,
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=19
+Text: About
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Українська
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=145
+Text: jQuery
+-------------------
+Node: Unknown
+Geometry: x=43, y=0, width=0, height=22
+Text: jQuery
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=22
+Text: 0/18
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=72
+Text: Build a Markdown Previewer
+-------------------
+Node: Unknown
+Geometry: x=30, y=0, width=0, height=72
+Text: Build a JavaScript Calculator
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=45, y=0, width=0, height=122
+Text: Line up Form Elements Responsively with Bootstrap
+-------------------
+Node: Unknown
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Visual Studio vs VSCode
+-------------------
+Node: Unknown
+Geometry: x=74, y=0, width=0, height=70
+Text: Quality Assurance Certification
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Dijkstra’s Algorithm
+-------------------
+Node: Unknown
+Geometry: x=17, y=0, width=0, height=19
+Text: Parse a Boolean in JS
+-------------------

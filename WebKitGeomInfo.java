@@ -188,17 +188,29 @@ public final class WebKitGeomInfo {
 
 			// получение названия тега
 			case Node.ELEMENT_NODE:
-				// nodeName = ((Element) node).getTagName(); //не конвертирует стринг на элемент
-				// nodeName = NodeName(node);
-				nodeName = node.getNodeName();
+				if (node instanceof Element) {
+					nodeName = ((Element) node).getTagName(); // Проверка на Элемента
+				}
+				nodeName = NodeName(node);
+				// nodeName = node.getNodeName();
+
 				break;
 
 			// Получение текста
 			case Node.TEXT_NODE:
-				nodeName = "#text-Node";
-				String nodeValue = node.getNodeValue();
-				if (nodeValue != null) {
-					nodeName += ": " + nodeValue.trim();
+				Node parent = node.getParentNode();
+				// получение нода для текстового узла, получив имя узла родительского элемента.
+
+				if (parent != null && parent.getNodeType() == Node.ELEMENT_NODE) {
+					// проверка если текст является дочери элемента
+
+					nodeName = parent.getNodeName();
+				} else {
+					nodeName = "#text-Node";
+					String nodeValue = node.getNodeValue();
+					if (nodeValue != null) {
+						nodeName += ": " + nodeValue.trim();
+					}
 				}
 				break;
 
@@ -215,6 +227,26 @@ public final class WebKitGeomInfo {
 				nodeName = "Unknown";
 				break;
 		}
+
+		// выделение тегов от контента
+		/*
+		 * if (nodeName.equals("div") || nodeName.equals("a") || nodeName.equals("span")
+		 * ||
+		 * nodeName.equals("h1") || nodeName.equals("h2") || nodeName.equals("h3")
+		 * || nodeName.equals("h4") || nodeName.equals("p") || nodeName.equals("h5")
+		 * || nodeName.equals("h6") || nodeName.equals("ul") || nodeName.equals("ol")
+		 * || nodeName.equals("li") || nodeName.equals("table") || nodeName.equals("tr")
+		 * || nodeName.equals("th") || nodeName.equals("td") || nodeName.equals("form")
+		 * || nodeName.equals("input") || nodeName.equals("textarea") ||
+		 * nodeName.equals("select")
+		 * || nodeName.equals("button") || nodeName.equals("script")) {
+		 * return nodeName;
+		 * } else {
+		 * return "Unknown"; // для незнакомых тегов
+		 * }
+		 */
+
+		// просто возращает название тега
 		return nodeName;
 	}
 
