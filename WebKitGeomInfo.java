@@ -132,8 +132,6 @@ public final class WebKitGeomInfo {
 		// this.nodes = new HashMap<>();
 		// this.nodes = nodes;
 
-		Scanner scanner = new Scanner(System.in);
-
 		try (FileWriter writer3 = new FileWriter("WebKitGeomInfo Node Test.txt")) {
 
 			// 3. Проверка корректности получения геометрии для выделенных тего
@@ -153,43 +151,6 @@ public final class WebKitGeomInfo {
 				int width = item.width;
 				int height = item.height;
 				String text = item.text;
-
-				// вывод нодов с соотвественный текстов
-				System.out.println("Node: " + NodeName(node) + "\n");
-				System.out.println("Geometry: x=" + x + ", y=" + y + ", width=" + width + ", height=" + height + "\n");
-				System.out.println("Text: " + text + "\n");
-				System.out.println("-------------------\n");
-
-				// Введение новых координатов
-				System.out.print("Введите новую координату X: ");
-				int newX = scanner.nextInt();
-
-				System.out.print("Введите новую координату Y: ");
-				int newY = scanner.nextInt();
-
-				System.out.print("Введите новую ширину: ");
-				int newWidth = scanner.nextInt();
-
-				System.out.print("Введите новую высоту: ");
-				int newHeight = scanner.nextInt();
-
-				System.out.print("Введите новый текст: ");
-				String newText = scanner.next();
-
-				// Обновление введенных координатов блока
-				item.width = newWidth;
-				item.height = newHeight;
-				item.x = newX;
-				item.y = newY;
-
-				// вывод новый текст с новыми координатами
-				System.out.println("Node: " + NodeName(node) + "\n");
-				System.out.println(
-						"Geometry: x=" + newX + ", y=" + newY + ", width=" + newWidth + ", height=" + newHeight + "\n");
-				System.out.println("Text: " + text + "\n");
-				System.out.println("-------------------\n");
-
-				scanner.close();
 
 				// вывод в txt
 				try {
@@ -314,11 +275,11 @@ public final class WebKitGeomInfo {
 	}
 
 	// Геомерия тега
-	static public class Item {
-		public int x, y, width, height;
-		public String text;
+	static public final class Item {
+		public final int x, y, width, height;
+		public final String text;
 
-		public Item(int x, int y, int width, int height, String text) {
+		Item(int x, int y, int width, int height, String text) {
 			this.x = x;
 			this.y = y;
 			this.width = width;
