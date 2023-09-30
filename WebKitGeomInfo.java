@@ -106,7 +106,7 @@ public final class WebKitGeomInfo {
 					try {
 						// writer2.append()
 						writer2.write("Element: " + i + "\n" + " Geometry x = " + x + " y = " + y
-								+ " width = " + width + " height = " + height + "\n" + " text = --------\n\n"
+								+ " width = " + width + " height = " + height + "\n" + " text = "
 								+ String.valueOf(text));
 
 					} catch (IOException e) {
