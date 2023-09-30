@@ -1,1075 +1,1075 @@
-Node: P
-Geometry: x=30, y=0, width=0, height=940
-Text: In 2006 when it was released, all major browsers handled JavaScript slightly differently. jQuery simplified the process of writing client-side JavaScript, and also ensured that your code worked the same way in all browsers.
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: ,
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=30, y=0, width=0, height=97
-Text: Build a 25 + 5 Clock
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: A
+0 Node: A
 Geometry: x=45, y=0, width=0, height=122
 Text: Call out Optional Actions with btn-info
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=172
-Text: Use the Bootstrap Grid to Put Elements Side By Side
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=72
-Text: Responsively Style Checkboxes
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=72
-Text: Split Your Bootstrap Row
--------------------
-Node: title
+-------
+1 Node: title
 Geometry: x=0, y=0, width=0, height=0
 Text: Not Passed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: DIV
-Geometry: x=74, y=0, width=0, height=118
-Text: JavaScript Algorithms and Data Structures Certification
--------------------
-Node: P
-Geometry: x=15, y=0, width=0, height=109
-Text: freeCodeCamp is a donor-supported tax-exempt 501(c)(3) charitable organization (United States Federal Tax Identification Number: 82-0779546)
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: What is SQL?
--------------------
-Node: A
-Geometry: x=0, y=0, width=0, height=44
-Text: Privacy Policy
--------------------
-Node: SPAN
+-------
+2 Node: SPAN
 Geometry: x=0, y=0, width=0, height=22
-Text: ,
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: 0/10
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=913
-Text: It's time to put your front end development libraries skills to the test. Use Bootstrap, jQuery, Sass, React, and Redux to build 5 projects that will test everything you've learned up to this point.
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=122
-Text: Line up Form Elements Responsively with Bootstrap
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=72
-Text: Label Bootstrap Wells
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: DIV
-Geometry: x=74, y=0, width=0, height=94
-Text: Data Analysis with Python Certification
--------------------
-Node: P
-Geometry: x=15, y=0, width=0, height=79
-Text: Donations to freeCodeCamp go toward our education initiatives, and help pay for servers, services, and staff.
--------------------
-Node: H2
-Geometry: x=0, y=0, width=0, height=23
-Text: Trending Guides
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: Dijkstra’s Algorithm
--------------------
-Node: A
-Geometry: x=0, y=0, width=0, height=44
-Text: Code of Conduct
--------------------
-Node: BUTTON
-Geometry: x=0, y=0, width=0, height=0
-Text: Українська
--------------------
-Node: H2
-Geometry: x=15, y=0, width=0, height=198
-Text: Earn free verified certifications with freeCodeCamp's core curriculum:
--------------------
-Node: SPAN
+Text: 0 of 9 challenges completed
+-------
+3 Node: H3
+Geometry: x=30, y=0, width=0, height=122
+Text: React
+-------
+4 Node: SPAN
 Geometry: x=43, y=0, width=0, height=22
 Text: React
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: SPAN
+-------
+5 Node: SPAN
 Geometry: x=0, y=0, width=0, height=22
 Text: ,
--------------------
-Node: title
+-------
+6 Node: BUTTON
+Geometry: x=0, y=0, width=0, height=0
+Text: Español
+-------
+7 Node: DIV
+Geometry: x=44, y=0, width=0, height=47
+Text: Expand course
+-------
+8 Node: title
 Geometry: x=0, y=0, width=0, height=0
 Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: 0 of 10 challenges completed
--------------------
-Node: title
+-------
+9 Node: title
 Geometry: x=0, y=0, width=0, height=0
 Text: Not Passed
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=122
-Text: Taste the Bootstrap Button Color Rainbow
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=122
-Text: Style Text Inputs as Form Controls
--------------------
-Node: SPAN
+-------
+10 Node: A
+Geometry: x=45, y=0, width=0, height=147
+Text: Create a Class to Target with jQuery Selectors
+-------
+11 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+12 Node: DIV
+Geometry: x=74, y=0, width=0, height=94
+Text: Scientific Computing with Python Certification
+-------
+13 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: Parse a Boolean in JS
+-------
+14 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: What is Prim’s Algorithm?
+-------
+15 Node: SPAN
 Geometry: x=29, y=0, width=0, height=22
 Text: Not Passed
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=72
-Text: Create a Bootstrap Row
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: DIV
-Geometry: x=74, y=0, width=0, height=118
-Text: (New) Foundational C# with Microsoft Certification
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: Python Length of List
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: JS Check for Null
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: What is a REST API?
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=0
-Text: Radio
--------------------
-Node: SPAN
+-------
+16 Node: DIV
+Geometry: x=44, y=0, width=0, height=47
+Text: Collapse course
+-------
+17 Node: SPAN
 Geometry: x=0, y=0, width=0, height=22
 Text: 0 of 31 challenges completed
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=481
-Text: React is a popular JavaScript library for building reusable, component-driven user interfaces for web pages or applications.
--------------------
-Node: SPAN
+-------
+18 Node: SPAN
+Geometry: x=43, y=0, width=0, height=22
+Text: jQuery
+-------
+19 Node: A
+Geometry: x=-1000, y=57, width=0, height=22
+Text: Skip to content
+-------
+20 Node: A
+Geometry: x=0, y=0, width=0, height=0
+Text: Donate
+-------
+21 Node: SPAN
+Geometry: x=0, y=0, width=0, height=0
+Text: Contribute
+-------
+22 Node: A
+Geometry: x=30, y=0, width=0, height=97
+Text: Build a Random Quote Machine
+-------
+23 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+24 Node: A
+Geometry: x=45, y=0, width=0, height=72
+Text: Create Bootstrap Wells
+-------
+25 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+26 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: What is an Algorithm?
+-------
+27 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: Java List Example
+-------
+28 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: What is a REST API?
+-------
+29 Node: A
+Geometry: x=0, y=0, width=0, height=44
+Text: Open Source
+-------
+30 Node: H2
+Geometry: x=15, y=0, width=0, height=189
+Text: Courses
+-------
+31 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+32 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+33 Node: P
+Geometry: x=30, y=0, width=0, height=643
+Text: In this course, you'll learn how to create different React components, manage data in the form of state props, use different lifecycle methods like 
+-------
+34 Node: SPAN
 Geometry: x=0, y=0, width=0, height=22
 Text: ,
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=994
-Text: As applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a "predictable state container for JavaScript apps" that helps ensure your apps work predictably, and are easier to test.
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: 0 of 17 challenges completed
--------------------
-Node: H3
+-------
+35 Node: DIV
+Geometry: x=44, y=0, width=0, height=47
+Text: Expand course
+-------
+36 Node: H3
 Geometry: x=30, y=0, width=0, height=306
 Text: React and Redux
--------------------
-Node: A
-Geometry: x=30, y=0, width=0, height=72
-Text: Build a Markdown Previewer
--------------------
-Node: title
+-------
+37 Node: P
+Geometry: x=30, y=0, width=0, height=1372
+Text: Now that you know how to manage the flow of shared data with Redux, it's time to combine that knowledge with React. In the React and Redux courses, you'll build a React component and learn how to manage state locally at the component level, and throughout the entire application with Redux.
+-------
+38 Node: DIV
+Geometry: x=74, y=0, width=0, height=46
+Text: Project Euler
+-------
+39 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: Not Passed
+-------
+40 Node: P
+Geometry: x=15, y=0, width=0, height=79
+Text: Donations to freeCodeCamp go toward our education initiatives, and help pay for servers, services, and staff.
+-------
+41 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: Not Passed
+-------
+42 Node: title
 Geometry: x=0, y=0, width=0, height=0
 Text: Not Passed
--------------------
-Node: H3
+-------
+43 Node: A
+Geometry: x=45, y=0, width=0, height=72
+Text: Responsively Style Radio Buttons
+-------
+44 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+45 Node: A
+Geometry: x=45, y=0, width=0, height=72
+Text: Create a Bootstrap Headline
+-------
+46 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+47 Node: A
+Geometry: x=45, y=0, width=0, height=122
+Text: Add id Attributes to Bootstrap Elements
+-------
+48 Node: H3
 Geometry: x=15, y=0, width=0, height=1456
 Text: Browse our other free certifications
 (we recommend doing these in order)
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=72
-Text: Create a Bootstrap Headline
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=122
-Text: Add id Attributes to Bootstrap Elements
--------------------
-Node: P
-Geometry: x=15, y=0, width=0, height=22
-Text: You can 
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: Merge Arrays in JS
--------------------
-Node: A
-Geometry: x=0, y=0, width=0, height=44
-Text: Open Source
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=346
-Text: jQuery is one of the most widely used JavaScript libraries in the world.
--------------------
-Node: CODE
-Geometry: x=35, y=0, width=0, height=21
-Text: componentDidMount
--------------------
-Node: P
-Geometry: x=15, y=0, width=0, height=886
-Text: In the Front End Development Libraries Certification, you'll learn how to style your site quickly with Bootstrap. You'll also learn how to add logic to your CSS styles and extend them with Sass.
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: 0/17
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=188
-Text: Sign in to save your progress (it's free)
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=147
-Text: Give Each Element a Unique id
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: DIV
+-------
+49 Node: DIV
 Geometry: x=74, y=0, width=0, height=94
-Text: Front End Development Libraries Certification
--------------------
-Node: DIV
+Text: Back End Development and APIs Certification
+-------
+50 Node: DIV
 Geometry: x=74, y=0, width=0, height=94
-Text: Machine Learning with Python Certification
--------------------
-Node: A
-Geometry: x=0, y=0, width=0, height=44
-Text: Academic Honesty
--------------------
-Node: BUTTON
-Geometry: x=0, y=0, width=0, height=0
-Text: 中文（简体字）
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=0
-Text: Sign in
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: H3
-Geometry: x=30, y=0, width=0, height=122
-Text: React
--------------------
-Node: P
-Geometry: x=15, y=0, width=0, height=697
-Text: Now that you're familiar with HTML, CSS, and JavaScript, level up your skills by learning some of the most popular front end libraries in the industry.
--------------------
-Node: H3
-Geometry: x=30, y=0, width=0, height=214
-Text: Bootstrap
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=643
-Text: While you can use Redux with any view library, we introduce Redux here before combining it with React in the next set of courses.
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=859
-Text: React and Redux are often mentioned together, and with good reason. The developer who created Redux was a React developer who wanted to make it easier to share data across different components.
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=97
-Text: Make Images Mobile Responsive
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=172
-Text: Use Responsive Design with Bootstrap Fluid Containers
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: sizeof Operator in C
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: Python Remove from String
--------------------
-Node: BUTTON
-Geometry: x=0, y=0, width=0, height=0
-Text: 日本語
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=0
-Text: Menu
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: 0 of 9 challenges completed
--------------------
-Node: SPAN
-Geometry: x=43, y=0, width=0, height=22
-Text: Redux
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: 0/31
--------------------
-Node: SPAN
-Geometry: x=43, y=0, width=0, height=22
-Text: React and Redux
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=346
-Text: Complete all 5 projects, and you'll earn the Front End Development Libraries certification.
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=97
-Text: Use Comments to Clarify Code
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=72
-Text: Label Bootstrap Buttons
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=72
-Text: Responsively Style Radio Buttons
--------------------
-Node: A
-Geometry: x=15, y=0, width=0, height=52
-Text: make a tax-deductible donation here
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: Python Slicing
--------------------
-Node: A
-Geometry: x=0, y=0, width=0, height=19
-Text: About
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: 0 of 18 challenges completed
--------------------
-Node: SPAN
-Geometry: x=43, y=0, width=0, height=22
-Text: SASS
--------------------
-Node: A
-Geometry: x=30, y=0, width=0, height=72
-Text: Build a JavaScript Calculator
--------------------
-Node: H1
-Geometry: x=15, y=0, width=0, height=820
-Text: Front End Development Libraries
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=724
-Text: In this course, you'll learn how to build responsive websites with Bootstrap, and use its included classes to style buttons, images, forms, navigation, and other common elements.
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=30, y=0, width=0, height=72
-Text: Build a Drum Machine
--------------------
-Node: A
-Geometry: x=-1000, y=57, width=0, height=22
-Text: Skip to content
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=72
-Text: Center Text with Bootstrap
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: H2
-Geometry: x=15, y=0, width=0, height=174
-Text: Prepare for the developer interview job search:
--------------------
-Node: DIV
-Geometry: x=74, y=0, width=0, height=70
-Text: Coding Interview Prep
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: Parse a Boolean in JS
--------------------
-Node: A
+Text: Data Analysis with Python Certification
+-------
+51 Node: A
+Geometry: x=17, y=0, width=156, height=19
+Text: enumerate() in Python
+-------
+52 Node: A
 Geometry: x=17, y=0, width=0, height=19
 Text: Escape a String in JS
--------------------
-Node: A
+-------
+53 Node: A
 Geometry: x=17, y=0, width=0, height=19
-Text: Java List Example
--------------------
-Node: A
+Text: Python Slicing
+-------
+54 Node: A
 Geometry: x=17, y=0, width=0, height=19
-Text: JS .reverse() Function
--------------------
-Node: A
+Text: Python Remove from String
+-------
+55 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: Python String to Datetime
+-------
+56 Node: A
 Geometry: x=17, y=0, width=0, height=19
 Text: Data Structures & Algorithms
--------------------
-Node: A
-Geometry: x=0, y=0, width=0, height=0
-Text: Curriculum
--------------------
-Node: SPAN
-Geometry: x=43, y=0, width=0, height=22
-Text: jQuery
--------------------
-Node: title
+-------
+57 Node: title
 Geometry: x=0, y=0, width=0, height=0
 Text: Not Passed
--------------------
-Node: P
-Geometry: x=15, y=0, width=0, height=616
-Text: Later, you'll build a shopping cart and other applications to learn how to create powerful Single Page Applications (SPAs) with React and Redux.
--------------------
-Node: H2
-Geometry: x=15, y=0, width=0, height=189
-Text: Courses
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=940
-Text: Bootstrap is a front end framework used to design responsive web pages and applications. It takes a mobile-first approach to web development, and includes pre-built CSS styles and classes, plus some JavaScript functionality.
--------------------
-Node: P
+-------
+58 Node: H3
+Geometry: x=30, y=0, width=0, height=99
+Text: SASS
+-------
+59 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: ,
+-------
+60 Node: P
+Geometry: x=30, y=0, width=0, height=481
+Text: React is a popular JavaScript library for building reusable, component-driven user interfaces for web pages or applications.
+-------
+61 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: 0/47
+-------
+62 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: 0/10
+-------
+63 Node: P
+Geometry: x=30, y=0, width=0, height=913
+Text: It's time to put your front end development libraries skills to the test. Use Bootstrap, jQuery, Sass, React, and Redux to build 5 projects that will test everything you've learned up to this point.
+-------
+64 Node: SPAN
+Geometry: x=97, y=0, width=0, height=22
+Text: Sign in
+-------
+65 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+66 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+67 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+68 Node: A
+Geometry: x=45, y=0, width=0, height=72
+Text: Create a Bootstrap Row
+-------
+69 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+70 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: JS Modulo Operator
+-------
+71 Node: A
+Geometry: x=0, y=0, width=0, height=44
+Text: Privacy Policy
+-------
+72 Node: BUTTON
+Geometry: x=0, y=0, width=0, height=0
+Text: Português
+-------
+73 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+74 Node: P
+Geometry: x=30, y=0, width=0, height=859
+Text: React and Redux are often mentioned together, and with good reason. The developer who created Redux was a React developer who wanted to make it easier to share data across different components.
+-------
+75 Node: P
+Geometry: x=15, y=0, width=0, height=697
+Text: Now that you're familiar with HTML, CSS, and JavaScript, level up your skills by learning some of the most popular front end libraries in the industry.
+-------
+76 Node: P
+Geometry: x=30, y=0, width=0, height=346
+Text: Complete all 5 projects, and you'll earn the Front End Development Libraries certification.
+-------
+77 Node: SPAN
+Geometry: x=0, y=0, width=0, height=0
+Text: Menu
+-------
+78 Node: P
+Geometry: x=15, y=0, width=0, height=109
+Text: freeCodeCamp is a donor-supported tax-exempt 501(c)(3) charitable organization (United States Federal Tax Identification Number: 82-0779546)
+-------
+79 Node: A
+Geometry: x=45, y=0, width=0, height=122
+Text: Add Font Awesome Icons to our Buttons
+-------
+80 Node: A
+Geometry: x=45, y=0, width=0, height=122
+Text: Style Text Inputs as Form Controls
+-------
+81 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+82 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+83 Node: SPAN
+Geometry: x=0, y=0, width=0, height=0
+Text: Sign in
+-------
+84 Node: DIV
+Geometry: x=74, y=0, width=0, height=70
+Text: Data Visualization Certification
+-------
+85 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: JavaScript Get Request
+-------
+86 Node: H2
+Geometry: x=30, y=0, width=0, height=40
+Text: Our Charity
+-------
+87 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+88 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+89 Node: P
 Geometry: x=30, y=0, width=0, height=535
-Text: In this course, you'll learn the fundamentals of Redux stores, actions, reducers and middleware to manage data throughout your application.
--------------------
-Node: DIV
-Geometry: x=44, y=0, width=0, height=47
-Text: Expand course
--------------------
-Node: NOSCRIPT
+Text: In this course, you'll learn how to use jQuery to select, remove, clone, and modify different elements on the page.
+-------
+90 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+91 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+92 Node: P
+Geometry: x=15, y=0, width=0, height=199
+Text: Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
+-------
+93 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+94 Node: A
+Geometry: x=45, y=0, width=0, height=97
+Text: Use Comments to Clarify Code
+-------
+95 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+96 Node: A
+Geometry: x=45, y=0, width=0, height=72
+Text: Responsively Style Checkboxes
+-------
+97 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+98 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+99 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+100 Node: NOSCRIPT
 Geometry: x=0, y=0, width=0, height=0
 Text: 
       <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57R6KJM&gtm_auth=&gtm_preview=&gtm_cookies_win=x"
         height="0" width="0" style="display:none;visibility:hidden" id="tag-manager"></iframe>
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=122
-Text: Use a span to Target Inline Elements
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=0, y=0, width=0, height=19
-Text: Support
--------------------
-Node: A
-Geometry: x=0, y=0, width=0, height=69
-Text: Terms of Service
--------------------
-Node: BUTTON
-Geometry: x=0, y=0, width=0, height=0
-Text: English
--------------------
-Node: BUTTON
-Geometry: x=0, y=0, width=0, height=0
-Text: Português
--------------------
-Node: SPAN
-Geometry: x=97, y=0, width=0, height=22
-Text: Sign in
--------------------
-Node: DIV
-Geometry: x=44, y=0, width=0, height=47
-Text: Expand course
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=751
-Text: In this Sass course, you'll learn how to store data in variables, nest CSS, create reusable styles with mixins, add logic and loops to your styles, and more.
--------------------
-Node: DIV
-Geometry: x=44, y=0, width=0, height=47
-Text: Expand course
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=643
-Text: In this course, you'll learn how to create different React components, manage data in the form of state props, use different lifecycle methods like 
--------------------
-Node: A
-Geometry: x=30, y=0, width=0, height=97
-Text: Build a Random Quote Machine
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: ,
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=72
-Text: Create Bootstrap Wells
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: H2
-Geometry: x=15, y=0, width=0, height=102
-Text: Earn free professional certifications:
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: Exponents in Python
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: Python Lambda Functions
--------------------
-Node: H2
-Geometry: x=30, y=0, width=0, height=40
-Text: Our Charity
--------------------
-Node: SPAN
-Geometry: x=43, y=0, width=0, height=22
-Text: Bootstrap
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: ,
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=0
-Text: Sign in
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=72
-Text: Create a Bootstrap Button
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=122
-Text: Add Font Awesome Icons to all of our Buttons
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: DIV
-Geometry: x=74, y=0, width=0, height=46
-Text: Project Euler
--------------------
-Node: P
-Geometry: x=15, y=0, width=0, height=199
-Text: Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
--------------------
-Node: A
-Geometry: x=0, y=0, width=0, height=19
-Text: Sponsors
--------------------
-Node: BUTTON
-Geometry: x=0, y=0, width=0, height=0
-Text: 中文（繁體字）
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=535
-Text: In this course, you'll learn how to use jQuery to select, remove, clone, and modify different elements on the page.
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: 0/18
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=724
-Text: React combines HTML with JavaScript functionality into its own markup language called JSX. React also makes it easy to manage the flow of data throughout the application.
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: DIV
-Geometry: x=74, y=0, width=0, height=70
-Text: Data Visualization Certification
--------------------
-Node: DIV
-Geometry: x=74, y=0, width=0, height=70
-Text: Quality Assurance Certification
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: What is an Algorithm?
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: JavaScript Get Request
--------------------
-Node: A
-Geometry: x=0, y=0, width=0, height=44
-Text: Alumni Network
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=0
-Text: Forum
--------------------
-Node: TITLE
-Geometry: x=0, y=0, width=0, height=0
-Text: Front End Development Libraries Certification | freeCodeCamp.org
--------------------
-Node: BUTTON
-Geometry: x=0, y=0, width=0, height=0
-Text: Español
--------------------
-Node: BUTTON
-Geometry: x=0, y=0, width=0, height=0
-Text: Italiano
--------------------
-Node: SPAN
-Geometry: x=65, y=0, width=0, height=22
-Text: Menu
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=967
-Text: Sass, or "Syntactically Awesome StyleSheets", is a language extension of CSS. It adds features that aren't available in basic CSS, which make it easier for you to simplify and maintain the style sheets for your projects.
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: 0/9
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: DIV
-Geometry: x=44, y=0, width=0, height=47
-Text: Collapse course
--------------------
-Node: DIV
-Geometry: x=44, y=0, width=0, height=47
-Text: Expand course
--------------------
-Node: H3
-Geometry: x=30, y=0, width=0, height=835
-Text: Front End Development Libraries Projects
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=122
-Text: Add Font Awesome Icons to our Buttons
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=147
-Text: Create a Class to Target with jQuery Selectors
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: JavaScript Range
--------------------
-Node: A
+-------
+101 Node: A
 Geometry: x=17, y=0, width=0, height=19
 Text: JavaScript Encoding
--------------------
-Node: A
-Geometry: x=0, y=0, width=0, height=19
-Text: Shop
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=0
-Text: News
--------------------
-Node: DIV
-Geometry: x=44, y=0, width=0, height=47
-Text: Expand course
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: 0 of 47 challenges completed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=1372
-Text: Now that you know how to manage the flow of shared data with Redux, it's time to combine that knowledge with React. In the React and Redux courses, you'll build a React component and learn how to manage state locally at the component level, and throughout the entire application with Redux.
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: title
-Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: A
+-------
+102 Node: A
 Geometry: x=45, y=0, width=0, height=122
 Text: Create a Block Element Bootstrap Button
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=147
-Text: House our page within a Bootstrap container-fluid div
--------------------
-Node: DIV
-Geometry: x=74, y=0, width=0, height=94
-Text: Back End Development and APIs Certification
--------------------
-Node: DIV
-Geometry: x=74, y=0, width=0, height=70
-Text: Information Security Certification
--------------------
-Node: DIV
-Geometry: x=74, y=0, width=0, height=94
-Text: College Algebra with Python Certification
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: Python Datetime.now()
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: JS Modulo Operator
--------------------
-Node: A
-Geometry: x=0, y=0, width=0, height=44
-Text: Copyright Policy
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=0
-Text: Night Mode
--------------------
-Node: SPAN
-Geometry: x=0, y=0, width=0, height=0
-Text: Sign in to change theme.
--------------------
-Node: A
-Geometry: x=0, y=0, width=0, height=0
-Text: Donate
--------------------
-Node: H3
-Geometry: x=30, y=0, width=0, height=99
-Text: SASS
--------------------
-Node: P
-Geometry: x=30, y=0, width=0, height=104
-Text: , and much more.
--------------------
-Node: SPAN
+-------
+103 Node: SPAN
 Geometry: x=0, y=0, width=0, height=22
-Text: 0/47
--------------------
-Node: DIV
+Text: ,
+-------
+104 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: 0/18
+-------
+105 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: 0/9
+-------
+106 Node: P
+Geometry: x=30, y=0, width=0, height=643
+Text: While you can use Redux with any view library, we introduce Redux here before combining it with React in the next set of courses.
+-------
+107 Node: BUTTON
+Geometry: x=0, y=0, width=0, height=0
+Text: English
+-------
+108 Node: BUTTON
+Geometry: x=0, y=0, width=0, height=0
+Text: 中文（繁體字）
+-------
+109 Node: SPAN
+Geometry: x=43, y=0, width=0, height=22
+Text: React and Redux
+-------
+110 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+111 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+112 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+113 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+114 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+115 Node: SPAN
+Geometry: x=0, y=0, width=0, height=188
+Text: Sign in to save your progress (it's free)
+-------
+116 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: JS .reverse() Function
+-------
+117 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+118 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+119 Node: A
+Geometry: x=45, y=0, width=0, height=122
+Text: Taste the Bootstrap Button Color Rainbow
+-------
+120 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: 0/31
+-------
+121 Node: P
+Geometry: x=30, y=0, width=0, height=724
+Text: React combines HTML with JavaScript functionality into its own markup language called JSX. React also makes it easy to manage the flow of data throughout the application.
+-------
+122 Node: H3
+Geometry: x=30, y=0, width=0, height=214
+Text: Bootstrap
+-------
+123 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+124 Node: P
+Geometry: x=30, y=0, width=0, height=994
+Text: As applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a "predictable state container for JavaScript apps" that helps ensure your apps work predictably, and are easier to test.
+-------
+125 Node: P
+Geometry: x=30, y=0, width=0, height=535
+Text: In this course, you'll learn the fundamentals of Redux stores, actions, reducers and middleware to manage data throughout your application.
+-------
+126 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+127 Node: A
+Geometry: x=30, y=0, width=0, height=72
+Text: Build a Drum Machine
+-------
+128 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+129 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+130 Node: A
+Geometry: x=45, y=0, width=0, height=147
+Text: Give Each Element a Unique id
+-------
+131 Node: A
+Geometry: x=45, y=0, width=0, height=122
+Text: Line up Form Elements Responsively with Bootstrap
+-------
+132 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+133 Node: DIV
 Geometry: x=74, y=0, width=0, height=70
 Text: Responsive Web Design Certification
--------------------
-Node: H3
-Geometry: x=30, y=0, width=0, height=145
-Text: jQuery
--------------------
-Node: title
+-------
+134 Node: DIV
+Geometry: x=74, y=0, width=0, height=70
+Text: Quality Assurance Certification
+-------
+135 Node: H2
+Geometry: x=0, y=0, width=0, height=23
+Text: Trending Guides
+-------
+136 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: JS Check for Null
+-------
+137 Node: A
+Geometry: x=0, y=0, width=0, height=19
+Text: Shop
+-------
+138 Node: BUTTON
+Geometry: x=0, y=0, width=0, height=0
+Text: Italiano
+-------
+139 Node: A
+Geometry: x=45, y=0, width=0, height=72
+Text: Create a Bootstrap Button
+-------
+140 Node: SPAN
+Geometry: x=43, y=0, width=0, height=22
+Text: Bootstrap
+-------
+141 Node: P
+Geometry: x=30, y=0, width=0, height=940
+Text: In 2006 when it was released, all major browsers handled JavaScript slightly differently. jQuery simplified the process of writing client-side JavaScript, and also ensured that your code worked the same way in all browsers.
+-------
+142 Node: A
+Geometry: x=30, y=0, width=0, height=97
+Text: Build a 25 + 5 Clock
+-------
+143 Node: A
+Geometry: x=30, y=0, width=0, height=72
+Text: Build a Markdown Previewer
+-------
+144 Node: title
 Geometry: x=0, y=0, width=0, height=0
 Text: Not Passed
--------------------
-Node: title
+-------
+145 Node: A
+Geometry: x=45, y=0, width=0, height=122
+Text: Add Font Awesome Icons to all of our Buttons
+-------
+146 Node: title
 Geometry: x=0, y=0, width=0, height=0
 Text: Not Passed
--------------------
-Node: SPAN
+-------
+147 Node: SPAN
 Geometry: x=29, y=0, width=0, height=22
 Text: Not Passed
--------------------
-Node: A
+-------
+148 Node: DIV
+Geometry: x=74, y=0, width=0, height=94
+Text: Front End Development Libraries Certification
+-------
+149 Node: DIV
+Geometry: x=74, y=0, width=0, height=94
+Text: College Algebra with Python Certification
+-------
+150 Node: A
+Geometry: x=0, y=0, width=0, height=44
+Text: Copyright Policy
+-------
+151 Node: A
+Geometry: x=45, y=0, width=0, height=172
+Text: Use Responsive Design with Bootstrap Fluid Containers
+-------
+152 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: 0 of 47 challenges completed
+-------
+153 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: 0 of 17 challenges completed
+-------
+154 Node: H1
+Geometry: x=15, y=0, width=0, height=820
+Text: Front End Development Libraries
+-------
+155 Node: P
+Geometry: x=15, y=0, width=0, height=886
+Text: In the Front End Development Libraries Certification, you'll learn how to style your site quickly with Bootstrap. You'll also learn how to add logic to your CSS styles and extend them with Sass.
+-------
+156 Node: A
+Geometry: x=0, y=0, width=0, height=0
+Text: Curriculum
+-------
+157 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: Not Passed
+-------
+158 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+159 Node: DIV
+Geometry: x=74, y=0, width=0, height=118
+Text: (New) Foundational C# with Microsoft Certification
+-------
+160 Node: A
 Geometry: x=45, y=0, width=0, height=172
 Text: Warn Your Users of a Dangerous Action with btn-danger
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=97
-Text: Create a Custom Heading
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=147
-Text: Add Elements within Your Bootstrap Wells
--------------------
-Node: A
-Geometry: x=45, y=0, width=0, height=122
-Text: Apply the Default Bootstrap Button Style
--------------------
-Node: DIV
-Geometry: x=74, y=0, width=0, height=70
-Text: Relational Database Certification
--------------------
-Node: DIV
-Geometry: x=74, y=0, width=0, height=94
-Text: Scientific Computing with Python Certification
--------------------
-Node: A
-Geometry: x=17, y=0, width=156, height=19
-Text: enumerate() in Python
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: HTML New Line
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: Visual Studio vs VSCode
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: Python String to Datetime
--------------------
-Node: A
-Geometry: x=17, y=0, width=0, height=19
-Text: What is Prim’s Algorithm?
--------------------
-Node: A
+-------
+161 Node: P
+Geometry: x=15, y=0, width=0, height=22
+Text: You can 
+-------
+162 Node: A
+Geometry: x=15, y=0, width=0, height=52
+Text: make a tax-deductible donation here
+-------
+163 Node: A
 Geometry: x=17, y=0, width=0, height=19
 Text: Different Casings Explained
--------------------
-Node: SPAN
+-------
+164 Node: A
+Geometry: x=0, y=0, width=0, height=44
+Text: Academic Honesty
+-------
+165 Node: TITLE
 Geometry: x=0, y=0, width=0, height=0
-Text: Contribute
--------------------
-Node: H3
+Text: Front End Development Libraries Certification | freeCodeCamp.org
+-------
+166 Node: A
+Geometry: x=45, y=0, width=0, height=72
+Text: Center Text with Bootstrap
+-------
+167 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+168 Node: P
+Geometry: x=30, y=0, width=0, height=724
+Text: In this course, you'll learn how to build responsive websites with Bootstrap, and use its included classes to style buttons, images, forms, navigation, and other common elements.
+-------
+169 Node: DIV
+Geometry: x=44, y=0, width=0, height=47
+Text: Expand course
+-------
+170 Node: SPAN
+Geometry: x=43, y=0, width=0, height=22
+Text: SASS
+-------
+171 Node: H3
 Geometry: x=30, y=0, width=0, height=122
 Text: Redux
--------------------
-Node: title
+-------
+172 Node: H2
+Geometry: x=15, y=0, width=0, height=174
+Text: Prepare for the developer interview job search:
+-------
+173 Node: P
+Geometry: x=15, y=0, width=0, height=616
+Text: Later, you'll build a shopping cart and other applications to learn how to create powerful Single Page Applications (SPAs) with React and Redux.
+-------
+174 Node: SPAN
+Geometry: x=65, y=0, width=0, height=22
+Text: Menu
+-------
+175 Node: SPAN
 Geometry: x=0, y=0, width=0, height=0
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
-Text: Not Passed
--------------------
-Node: A
+Text: Sign in
+-------
+176 Node: A
 Geometry: x=45, y=0, width=0, height=97
 Text: Ditch Custom CSS for Bootstrap
--------------------
-Node: title
+-------
+177 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+178 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+179 Node: title
 Geometry: x=0, y=0, width=0, height=0
 Text: Not Passed
--------------------
-Node: SPAN
+-------
+180 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+181 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: Dijkstra’s Algorithm
+-------
+182 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: Python Length of List
+-------
+183 Node: A
+Geometry: x=0, y=0, width=0, height=69
+Text: Terms of Service
+-------
+184 Node: SPAN
 Geometry: x=29, y=0, width=0, height=22
 Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
+-------
+185 Node: P
+Geometry: x=30, y=0, width=0, height=346
+Text: jQuery is one of the most widely used JavaScript libraries in the world.
+-------
+186 Node: P
+Geometry: x=30, y=0, width=0, height=751
+Text: In this Sass course, you'll learn how to store data in variables, nest CSS, create reusable styles with mixins, add logic and loops to your styles, and more.
+-------
+187 Node: DIV
+Geometry: x=44, y=0, width=0, height=47
+Text: Expand course
+-------
+188 Node: SPAN
+Geometry: x=0, y=0, width=0, height=0
+Text: Radio
+-------
+189 Node: title
+Geometry: x=0, y=0, width=0, height=0
 Text: Not Passed
--------------------
-Node: SPAN
-Geometry: x=29, y=0, width=0, height=22
+-------
+190 Node: title
+Geometry: x=0, y=0, width=0, height=0
 Text: Not Passed
--------------------
-Node: P
+-------
+191 Node: A
+Geometry: x=45, y=0, width=0, height=72
+Text: Split Your Bootstrap Row
+-------
+192 Node: H2
+Geometry: x=15, y=0, width=0, height=198
+Text: Earn free verified certifications with freeCodeCamp's core curriculum:
+-------
+193 Node: DIV
+Geometry: x=74, y=0, width=0, height=70
+Text: Information Security Certification
+-------
+194 Node: P
 Geometry: x=0, y=0, width=0, height=22
 Text: .
--------------------
-Node: A
+-------
+195 Node: A
 Geometry: x=17, y=0, width=0, height=19
-Text: Int to String in Java
--------------------
-Node: A
+Text: Merge Arrays in JS
+-------
+196 Node: A
+Geometry: x=0, y=0, width=0, height=19
+Text: About
+-------
+197 Node: A
+Geometry: x=0, y=0, width=0, height=44
+Text: Alumni Network
+-------
+198 Node: A
+Geometry: x=0, y=0, width=0, height=19
+Text: Sponsors
+-------
+199 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+200 Node: BUTTON
+Geometry: x=0, y=0, width=0, height=0
+Text: Українська
+-------
+201 Node: A
+Geometry: x=45, y=0, width=0, height=97
+Text: Make Images Mobile Responsive
+-------
+202 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: ,
+-------
+203 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: 0 of 18 challenges completed
+-------
+204 Node: P
+Geometry: x=30, y=0, width=0, height=104
+Text: , and much more.
+-------
+205 Node: DIV
+Geometry: x=44, y=0, width=0, height=47
+Text: Expand course
+-------
+206 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: 0/17
+-------
+207 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: 0 of 10 challenges completed
+-------
+208 Node: SPAN
+Geometry: x=0, y=0, width=0, height=0
+Text: Sign in to change theme.
+-------
+209 Node: A
+Geometry: x=45, y=0, width=0, height=172
+Text: Use the Bootstrap Grid to Put Elements Side By Side
+-------
+210 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+211 Node: A
+Geometry: x=45, y=0, width=0, height=147
+Text: House our page within a Bootstrap container-fluid div
+-------
+212 Node: A
+Geometry: x=45, y=0, width=0, height=122
+Text: Apply the Default Bootstrap Button Style
+-------
+213 Node: DIV
+Geometry: x=74, y=0, width=0, height=70
+Text: Relational Database Certification
+-------
+214 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: Exponents in Python
+-------
+215 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: JavaScript Range
+-------
+216 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: Visual Studio vs VSCode
+-------
+217 Node: A
+Geometry: x=0, y=0, width=0, height=44
+Text: Code of Conduct
+-------
+218 Node: BUTTON
+Geometry: x=0, y=0, width=0, height=0
+Text: 中文（简体字）
+-------
+219 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+220 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+221 Node: P
+Geometry: x=30, y=0, width=0, height=967
+Text: Sass, or "Syntactically Awesome StyleSheets", is a language extension of CSS. It adds features that aren't available in basic CSS, which make it easier for you to simplify and maintain the style sheets for your projects.
+-------
+222 Node: SPAN
+Geometry: x=0, y=0, width=0, height=0
+Text: Forum
+-------
+223 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: Not Passed
+-------
+224 Node: A
+Geometry: x=45, y=0, width=0, height=122
+Text: Use a span to Target Inline Elements
+-------
+225 Node: A
+Geometry: x=45, y=0, width=0, height=97
+Text: Create a Custom Heading
+-------
+226 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+227 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+228 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+229 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+230 Node: DIV
+Geometry: x=74, y=0, width=0, height=94
+Text: Machine Learning with Python Certification
+-------
+231 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: sizeof Operator in C
+-------
+232 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: Python Datetime.now()
+-------
+233 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: Python Lambda Functions
+-------
+234 Node: A
+Geometry: x=0, y=0, width=0, height=19
+Text: Support
+-------
+235 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+236 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+237 Node: H3
+Geometry: x=30, y=0, width=0, height=145
+Text: jQuery
+-------
+238 Node: CODE
+Geometry: x=35, y=0, width=0, height=21
+Text: componentDidMount
+-------
+239 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: ,
+-------
+240 Node: H3
+Geometry: x=30, y=0, width=0, height=835
+Text: Front End Development Libraries Projects
+-------
+241 Node: DIV
+Geometry: x=74, y=0, width=0, height=70
+Text: Coding Interview Prep
+-------
+242 Node: SPAN
+Geometry: x=0, y=0, width=0, height=0
+Text: Night Mode
+-------
+243 Node: SPAN
+Geometry: x=0, y=0, width=0, height=22
+Text: Not Passed
+-------
+244 Node: A
+Geometry: x=30, y=0, width=0, height=72
+Text: Build a JavaScript Calculator
+-------
+245 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+246 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+247 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+248 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+249 Node: DIV
+Geometry: x=74, y=0, width=0, height=118
+Text: JavaScript Algorithms and Data Structures Certification
+-------
+250 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: What is SQL?
+-------
+251 Node: A
 Geometry: x=17, y=0, width=0, height=19
 Text: Principle of Least Privilege
--------------------
+-------
+252 Node: BUTTON
+Geometry: x=0, y=0, width=0, height=0
+Text: 日本語
+-------
+253 Node: P
+Geometry: x=30, y=0, width=0, height=940
+Text: Bootstrap is a front end framework used to design responsive web pages and applications. It takes a mobile-first approach to web development, and includes pre-built CSS styles and classes, plus some JavaScript functionality.
+-------
+254 Node: SPAN
+Geometry: x=43, y=0, width=0, height=22
+Text: Redux
+-------
+255 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+256 Node: SPAN
+Geometry: x=0, y=0, width=0, height=0
+Text: News
+-------
+257 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+258 Node: title
+Geometry: x=0, y=0, width=0, height=0
+Text: Not Passed
+-------
+259 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+260 Node: A
+Geometry: x=45, y=0, width=0, height=72
+Text: Label Bootstrap Buttons
+-------
+261 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+262 Node: SPAN
+Geometry: x=29, y=0, width=0, height=22
+Text: Not Passed
+-------
+263 Node: A
+Geometry: x=45, y=0, width=0, height=147
+Text: Add Elements within Your Bootstrap Wells
+-------
+264 Node: A
+Geometry: x=45, y=0, width=0, height=72
+Text: Label Bootstrap Wells
+-------
+265 Node: H2
+Geometry: x=15, y=0, width=0, height=102
+Text: Earn free professional certifications:
+-------
+266 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: Int to String in Java
+-------
+267 Node: A
+Geometry: x=17, y=0, width=0, height=19
+Text: HTML New Line
+-------

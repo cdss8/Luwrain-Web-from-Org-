@@ -1,1124 +1,2244 @@
-Hello world! 1
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesFront End Development Libraries Certification | freeCodeCamp.org and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes
+Geometry
+Element: 1
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 2
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 3
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 4
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 5
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 6
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 7
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 8
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 9
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 10
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 11
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 12
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 13
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 14
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 15
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 16
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 17
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Front End Development Libraries Certification | freeCodeCamp.orgElement: 18
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 19
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 20
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 21
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 22
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 23
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 24
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 25
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 26
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 27
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 28
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 29
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 30
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 31
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 32
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 33
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 34
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 35
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 36
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 37
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 38
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 39
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 40
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 41
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 42
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 43
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 44
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 45
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 46
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 47
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 48
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 49
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 50
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 51
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 52
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 53
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 54
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 55
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 56
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 57
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 58
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 59
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 60
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 61
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 62
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 63
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 64
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 
       <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57R6KJM&gtm_auth=&gtm_preview=&gtm_cookies_win=x"
-        height="0" width="0" style="display:none;visibility:hidden" id="tag-manager"></iframe> and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 56 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 56
-Handling the nodes123 and x = -1000 y = 56 width = 0 height = 25
-Handling the nodesSkip to content and x = -1000 y = 57 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 10 height = 56
-Handling the nodes123 and x = 5 y = 16 width = 0 height = 24
-Handling the nodes123 and x = 5 y = 16 width = 0 height = 24
-Handling the nodes123 and x = 5 y = 16 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 5 y = 16 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 16 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 5 y = 16 width = 0 height = 0
-Handling the nodes123 and x = 5 y = 16 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 16 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 16 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 9 y = 13 width = 96 height = 30
-Handling the nodes123 and x = 9 y = 13 width = 34 height = 30
-Handling the nodes123 and x = 14 y = 16 width = 24 height = 24
-Handling the nodes123 and x = 16 y = 18 width = 20 height = 20
-Handling the nodes123 and x = 27 y = 0 width = 3 height = 0
-Handling the nodes123 and x = 22 y = 0 width = 3 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesEnglish and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesEspañol and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes中文（简体字） and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes中文（繁體字） and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesItaliano and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesPortuguês and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesУкраїнська and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes日本語 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 43 y = 13 width = 30 height = 30
-Handling the nodes123 and x = 50 y = 0 width = 16 height = 25
-Handling the nodes123 and x = 50 y = 0 width = 16 height = 18
-Handling the nodes123 and x = 0 y = 21 width = 0 height = 0
-Handling the nodes123 and x = 65 y = 0 width = 1 height = 1
-Handling the nodesMenu and x = 65 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesMenu and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesDonate and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesCurriculum and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesForum and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNews and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesRadio and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesContribute and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNight Mode and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesSign in to change theme. and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 73 y = 13 width = 32 height = 30
-Handling the nodes123 and x = 80 y = 0 width = 18 height = 25
-Handling the nodes123 and x = 80 y = 0 width = 18 height = 18
-Handling the nodes123 and x = 80 y = 0 width = 18 height = 0
-Handling the nodes123 and x = 97 y = 0 width = 1 height = 1
-Handling the nodes  and x = 0 y = 0 width = 0 height = 0
-Handling the nodesSign in and x = 97 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesSign in and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 56 width = 30 height = 0
-Handling the nodes123 and x = 15 y = 56 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 56 width = 30 height = 0
-Handling the nodes123 and x = 0 y = 56 width = 30 height = 0
-Handling the nodes123 and x = 15 y = 56 width = 0 height = 60
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 812
-Handling the nodesFront End Development Libraries and x = 15 y = 0 width = 0 height = 820
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 30
-Handling the nodes123 and x = 15 y = 0 width = 80 height = 80
-Handling the nodes123 and x = 15 y = 0 width = 80 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 30
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 702
-Handling the nodesNow that you're familiar with HTML, CSS, and JavaScript, level up your skills by learning some of the most popular front end libraries in the industry. and x = 15 y = 0 width = 0 height = 697
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 891
-Handling the nodesIn the Front End Development Libraries Certification, you'll learn how to style your site quickly with Bootstrap. You'll also learn how to add logic to your CSS styles and extend them with Sass. and x = 15 y = 0 width = 0 height = 886
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 621
-Handling the nodesLater, you'll build a shopping cart and other applications to learn how to create powerful Single Page Applications (SPAs) with React and Redux. and x = 15 y = 0 width = 0 height = 616
-Handling the nodes and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 60
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 182
-Handling the nodesCourses and x = 15 y = 0 width = 0 height = 189
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 30
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes  and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 242
-Handling the nodesBootstrap and x = 30 y = 0 width = 0 height = 214
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 0
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 945
-Handling the nodesBootstrap is a front end framework used to design responsive web pages and applications. It takes a mobile-first approach to web development, and includes pre-built CSS styles and classes, plus some JavaScript functionality. and x = 30 y = 0 width = 0 height = 940
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 729
-Handling the nodesIn this course, you'll learn how to build responsive websites with Bootstrap, and use its included classes to style buttons, images, forms, navigation, and other common elements. and x = 30 y = 0 width = 0 height = 724
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 86
-Handling the nodes123 and x = 30 y = 0 width = 14 height = 14
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 44 y = 0 width = 0 height = 50
-Handling the nodesCollapse course and x = 44 y = 0 width = 0 height = 47
-Handling the nodes  and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 43 y = 0 width = 1 height = 1
-Handling the nodesBootstrap and x = 43 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 100 height = 25
-Handling the nodes123 and x = 0 y = 0 width = 14 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 25
-Handling the nodes0/31 and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 1 height = 1
-Handling the nodes, and x = 0 y = 0 width = 0 height = 22
-Handling the nodes  and x = 0 y = 0 width = 0 height = 22
-Handling the nodes0 of 31 challenges completed and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 4145
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 195
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 195
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesUse Responsive Design with Bootstrap Fluid Containers and x = 45 y = 0 width = 0 height = 172
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 120
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 120
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesMake Images Mobile Responsive and x = 45 y = 0 width = 0 height = 97
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 95
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 95
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesCenter Text with Bootstrap and x = 45 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 95
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 95
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesCreate a Bootstrap Button and x = 45 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 145
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 145
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesCreate a Block Element Bootstrap Button and x = 45 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 145
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 145
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesTaste the Bootstrap Button Color Rainbow and x = 45 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 145
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 145
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesCall out Optional Actions with btn-info and x = 45 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 195
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 195
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesWarn Your Users of a Dangerous Action with btn-danger and x = 45 y = 0 width = 0 height = 172
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 195
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 195
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesUse the Bootstrap Grid to Put Elements Side By Side and x = 45 y = 0 width = 0 height = 172
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 120
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 120
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesDitch Custom CSS for Bootstrap and x = 45 y = 0 width = 0 height = 97
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 145
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 145
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesUse a span to Target Inline Elements and x = 45 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 120
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 120
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesCreate a Custom Heading and x = 45 y = 0 width = 0 height = 97
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 145
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 145
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesAdd Font Awesome Icons to our Buttons and x = 45 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 145
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 145
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesAdd Font Awesome Icons to all of our Buttons and x = 45 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 95
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 95
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesResponsively Style Radio Buttons and x = 45 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 95
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 95
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesResponsively Style Checkboxes and x = 45 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 145
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 145
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesStyle Text Inputs as Form Controls and x = 45 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 145
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 145
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesLine up Form Elements Responsively with Bootstrap and x = 45 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 95
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 95
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesCreate a Bootstrap Headline and x = 45 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 170
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 170
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesHouse our page within a Bootstrap container-fluid div and x = 45 y = 0 width = 0 height = 147
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 95
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 95
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesCreate a Bootstrap Row and x = 45 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 95
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 95
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesSplit Your Bootstrap Row and x = 45 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 95
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 95
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesCreate Bootstrap Wells and x = 45 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 170
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 170
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesAdd Elements within Your Bootstrap Wells and x = 45 y = 0 width = 0 height = 147
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 145
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 145
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesApply the Default Bootstrap Button Style and x = 45 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 170
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 170
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesCreate a Class to Target with jQuery Selectors and x = 45 y = 0 width = 0 height = 147
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 145
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 145
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesAdd id Attributes to Bootstrap Elements and x = 45 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 95
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 95
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesLabel Bootstrap Wells and x = 45 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 170
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 170
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesGive Each Element a Unique id and x = 45 y = 0 width = 0 height = 147
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 95
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 95
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesLabel Bootstrap Buttons and x = 45 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 120
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 120
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 25
-Handling the nodes123 and x = 29 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 29 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 30 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesUse Comments to Clarify Code and x = 45 y = 0 width = 0 height = 97
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 30
-Handling the nodes  and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 173
-Handling the nodesjQuery and x = 30 y = 0 width = 0 height = 145
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 0
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 351
-Handling the nodesjQuery is one of the most widely used JavaScript libraries in the world. and x = 30 y = 0 width = 0 height = 346
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 945
-Handling the nodesIn 2006 when it was released, all major browsers handled JavaScript slightly differently. jQuery simplified the process of writing client-side JavaScript, and also ensured that your code worked the same way in all browsers. and x = 30 y = 0 width = 0 height = 940
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 540
-Handling the nodesIn this course, you'll learn how to use jQuery to select, remove, clone, and modify different elements on the page. and x = 30 y = 0 width = 0 height = 535
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 86
-Handling the nodes123 and x = 30 y = 0 width = 14 height = 14
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 44 y = 0 width = 0 height = 50
-Handling the nodesExpand course and x = 44 y = 0 width = 0 height = 47
-Handling the nodes  and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 43 y = 0 width = 1 height = 1
-Handling the nodesjQuery and x = 43 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 100 height = 25
-Handling the nodes123 and x = 0 y = 0 width = 14 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 25
-Handling the nodes0/18 and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 1 height = 1
-Handling the nodes, and x = 0 y = 0 width = 0 height = 22
-Handling the nodes  and x = 0 y = 0 width = 0 height = 22
-Handling the nodes0 of 18 challenges completed and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 30
-Handling the nodes  and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 127
-Handling the nodesSASS and x = 30 y = 0 width = 0 height = 99
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 0
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 972
-Handling the nodesSass, or "Syntactically Awesome StyleSheets", is a language extension of CSS. It adds features that aren't available in basic CSS, which make it easier for you to simplify and maintain the style sheets for your projects. and x = 30 y = 0 width = 0 height = 967
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 756
-Handling the nodesIn this Sass course, you'll learn how to store data in variables, nest CSS, create reusable styles with mixins, add logic and loops to your styles, and more. and x = 30 y = 0 width = 0 height = 751
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 86
-Handling the nodes123 and x = 30 y = 0 width = 14 height = 14
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 44 y = 0 width = 0 height = 50
-Handling the nodesExpand course and x = 44 y = 0 width = 0 height = 47
-Handling the nodes  and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 43 y = 0 width = 1 height = 1
-Handling the nodesSASS and x = 43 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 100 height = 25
-Handling the nodes123 and x = 0 y = 0 width = 14 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 25
-Handling the nodes0/9 and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 1 height = 1
-Handling the nodes, and x = 0 y = 0 width = 0 height = 22
-Handling the nodes  and x = 0 y = 0 width = 0 height = 22
-Handling the nodes0 of 9 challenges completed and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 30
-Handling the nodes  and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 150
-Handling the nodesReact and x = 30 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 0
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 486
-Handling the nodesReact is a popular JavaScript library for building reusable, component-driven user interfaces for web pages or applications. and x = 30 y = 0 width = 0 height = 481
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 729
-Handling the nodesReact combines HTML with JavaScript functionality into its own markup language called JSX. React also makes it easy to manage the flow of data throughout the application. and x = 30 y = 0 width = 0 height = 724
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 757
-Handling the nodesIn this course, you'll learn how to create different React components, manage data in the form of state props, use different lifecycle methods like  and x = 30 y = 0 width = 0 height = 643
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 25
-Handling the nodescomponentDidMount and x = 35 y = 0 width = 0 height = 21
-Handling the nodes, and much more. and x = 30 y = 0 width = 0 height = 104
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 86
-Handling the nodes123 and x = 30 y = 0 width = 14 height = 14
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 44 y = 0 width = 0 height = 50
-Handling the nodesExpand course and x = 44 y = 0 width = 0 height = 47
-Handling the nodes  and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 43 y = 0 width = 1 height = 1
-Handling the nodesReact and x = 43 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 100 height = 25
-Handling the nodes123 and x = 0 y = 0 width = 14 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 25
-Handling the nodes0/47 and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 1 height = 1
-Handling the nodes, and x = 0 y = 0 width = 0 height = 22
-Handling the nodes  and x = 0 y = 0 width = 0 height = 22
-Handling the nodes0 of 47 challenges completed and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 30
-Handling the nodes  and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 150
-Handling the nodesRedux and x = 30 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 0
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 999
-Handling the nodesAs applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a "predictable state container for JavaScript apps" that helps ensure your apps work predictably, and are easier to test. and x = 30 y = 0 width = 0 height = 994
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 648
-Handling the nodesWhile you can use Redux with any view library, we introduce Redux here before combining it with React in the next set of courses. and x = 30 y = 0 width = 0 height = 643
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 540
-Handling the nodesIn this course, you'll learn the fundamentals of Redux stores, actions, reducers and middleware to manage data throughout your application. and x = 30 y = 0 width = 0 height = 535
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 86
-Handling the nodes123 and x = 30 y = 0 width = 14 height = 14
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 44 y = 0 width = 0 height = 50
-Handling the nodesExpand course and x = 44 y = 0 width = 0 height = 47
-Handling the nodes  and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 43 y = 0 width = 1 height = 1
-Handling the nodesRedux and x = 43 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 100 height = 25
-Handling the nodes123 and x = 0 y = 0 width = 14 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 25
-Handling the nodes0/17 and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 1 height = 1
-Handling the nodes, and x = 0 y = 0 width = 0 height = 22
-Handling the nodes  and x = 0 y = 0 width = 0 height = 22
-Handling the nodes0 of 17 challenges completed and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 30
-Handling the nodes  and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 334
-Handling the nodesReact and Redux and x = 30 y = 0 width = 0 height = 306
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 0
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 864
-Handling the nodesReact and Redux are often mentioned together, and with good reason. The developer who created Redux was a React developer who wanted to make it easier to share data across different components. and x = 30 y = 0 width = 0 height = 859
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 1377
-Handling the nodesNow that you know how to manage the flow of shared data with Redux, it's time to combine that knowledge with React. In the React and Redux courses, you'll build a React component and learn how to manage state locally at the component level, and throughout the entire application with Redux. and x = 30 y = 0 width = 0 height = 1372
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 86
-Handling the nodes123 and x = 30 y = 0 width = 14 height = 14
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 44 y = 0 width = 0 height = 50
-Handling the nodesExpand course and x = 44 y = 0 width = 0 height = 47
-Handling the nodes  and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 43 y = 0 width = 1 height = 1
-Handling the nodesReact and Redux and x = 43 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 100 height = 25
-Handling the nodes123 and x = 0 y = 0 width = 14 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 25
-Handling the nodes0/10 and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 1 height = 1
-Handling the nodes, and x = 0 y = 0 width = 0 height = 22
-Handling the nodes  and x = 0 y = 0 width = 0 height = 22
-Handling the nodes0 of 10 challenges completed and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 30
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 863
-Handling the nodesFront End Development Libraries Projects and x = 30 y = 0 width = 0 height = 835
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 0
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 918
-Handling the nodesIt's time to put your front end development libraries skills to the test. Use Bootstrap, jQuery, Sass, React, and Redux to build 5 projects that will test everything you've learned up to this point. and x = 30 y = 0 width = 0 height = 913
-Handling the nodes123 and x = 30 y = 0 width = 0 height = 351
-Handling the nodesComplete all 5 projects, and you'll earn the Front End Development Libraries certification. and x = 30 y = 0 width = 0 height = 346
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 525
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 120
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 120
-Handling the nodesBuild a Random Quote Machine and x = 30 y = 0 width = 0 height = 97
-Handling the nodes123 and x = 0 y = 0 width = 30 height = 25
-Handling the nodes123 and x = 0 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 95
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 95
-Handling the nodesBuild a Markdown Previewer and x = 30 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 0 y = 0 width = 30 height = 25
-Handling the nodes123 and x = 0 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 95
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 95
-Handling the nodesBuild a Drum Machine and x = 30 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 0 y = 0 width = 30 height = 25
-Handling the nodes123 and x = 0 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 95
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 95
-Handling the nodesBuild a JavaScript Calculator and x = 30 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 0 y = 0 width = 30 height = 25
-Handling the nodes123 and x = 0 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 120
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 120
-Handling the nodesBuild a 25 + 5 Clock and x = 30 y = 0 width = 0 height = 97
-Handling the nodes123 and x = 0 y = 0 width = 30 height = 25
-Handling the nodes123 and x = 0 y = 0 width = 1 height = 1
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 0 y = 0 width = 15 height = 15
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesNot Passed and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 30
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 268
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 60
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 208
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes  and x = 0 y = 0 width = 0 height = 0
-Handling the nodesSign in and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 192
-Handling the nodesSign in to save your progress (it's free) and x = 0 y = 0 width = 0 height = 188
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 60
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 1449
-Handling the nodesBrowse our other free certifications
-(we recommend doing these in order) and x = 15 y = 0 width = 0 height = 1456
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 30
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 192
-Handling the nodesEarn free verified certifications with freeCodeCamp's core curriculum: and x = 15 y = 0 width = 0 height = 198
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 1478
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 98
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 98
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 28
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 28
-Handling the nodesResponsive Web Design Certification and x = 74 y = 0 width = 0 height = 70
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 146
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 146
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 120
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 40
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 35
-Handling the nodesJavaScript Algorithms and Data Structures Certification and x = 74 y = 0 width = 0 height = 118
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 122
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 96
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 35
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 0
-Handling the nodesFront End Development Libraries Certification and x = 74 y = 0 width = 0 height = 94
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 98
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 98
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 33
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesData Visualization Certification and x = 74 y = 0 width = 0 height = 70
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 98
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 98
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 40
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 40
-Handling the nodesRelational Database Certification and x = 74 y = 0 width = 0 height = 70
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 122
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 96
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 35
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesBack End Development and APIs Certification and x = 74 y = 0 width = 0 height = 94
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 98
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 98
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 45
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 45
-Handling the nodesQuality Assurance Certification and x = 74 y = 0 width = 0 height = 70
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 122
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 96
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 40
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesScientific Computing with Python Certification and x = 74 y = 0 width = 0 height = 94
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 122
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 96
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 31
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 31
-Handling the nodesData Analysis with Python Certification and x = 74 y = 0 width = 0 height = 94
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 98
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 98
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 35
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodesInformation Security Certification and x = 74 y = 0 width = 0 height = 70
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 122
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 96
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 35
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 35
-Handling the nodesMachine Learning with Python Certification and x = 74 y = 0 width = 0 height = 94
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 122
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 122
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 96
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 28
-Handling the nodes123 and x = 39 y = 0 width = 0 height = 0
-Handling the nodesCollege Algebra with Python Certification and x = 74 y = 0 width = 0 height = 94
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 30
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 96
-Handling the nodesEarn free professional certifications: and x = 15 y = 0 width = 0 height = 102
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 146
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 146
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 146
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 120
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 35
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes(New) Foundational C# with Microsoft Certification and x = 74 y = 0 width = 0 height = 118
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 30
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 168
-Handling the nodesPrepare for the developer interview job search: and x = 15 y = 0 width = 0 height = 174
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 188
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 98
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 98
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 72
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 28
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 0
-Handling the nodesCoding Interview Prep and x = 74 y = 0 width = 0 height = 70
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 80
-Handling the nodes123 and x = 15 y = 0 width = 38 height = 80
-Handling the nodes123 and x = 34 y = 0 width = 0 height = 48
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 35
-Handling the nodes123 and x = 39 y = 0 width = 35 height = 0
-Handling the nodesProject Euler and x = 74 y = 0 width = 0 height = 46
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 60
-Handling the nodes123 and x = 0 y = 0 width = 30 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 120
-Handling the nodesfreeCodeCamp is a donor-supported tax-exempt 501(c)(3) charitable organization (United States Federal Tax Identification Number: 82-0779546) and x = 15 y = 0 width = 0 height = 109
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 210
-Handling the nodesOur mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world. and x = 15 y = 0 width = 0 height = 199
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 90
-Handling the nodesDonations to freeCodeCamp go toward our education initiatives, and help pay for servers, services, and staff. and x = 15 y = 0 width = 0 height = 79
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 60
-Handling the nodesYou can  and x = 15 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 56
-Handling the nodesmake a tax-deductible donation here and x = 15 y = 0 width = 0 height = 52
-Handling the nodes. and x = 0 y = 0 width = 0 height = 22
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 0
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 32
-Handling the nodesTrending Guides and x = 0 y = 0 width = 0 height = 23
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 1011
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesExponents in Python and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodessizeof Operator in C and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesDijkstra’s Algorithm and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 160 height = 23
-Handling the nodesenumerate() in Python and x = 17 y = 0 width = 156 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesWhat is an Algorithm? and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesParse a Boolean in JS and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesPython Datetime.now() and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesInt to String in Java and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesPython Length of List and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesEscape a String in JS and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesWhat is SQL? and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesHTML New Line and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesPython Slicing and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesJavaScript Range and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesJS Check for Null and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesJava List Example and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesMerge Arrays in JS and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesJS Modulo Operator and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesWhat is a REST API? and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesJavaScript Encoding and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesJavaScript Get Request and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesJS .reverse() Function and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesVisual Studio vs VSCode and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesPython Lambda Functions and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesPython Remove from String and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesPython String to Datetime and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesWhat is Prim’s Algorithm? and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesDifferent Casings Explained and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesPrinciple of Least Privilege and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 304 height = 25
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 23
-Handling the nodesData Structures & Algorithms and x = 17 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 634
-Handling the nodes123 and x = 15 y = 0 width = 30 height = 49
-Handling the nodesOur Charity and x = 30 y = 0 width = 0 height = 40
-Handling the nodes123 and x = 15 y = 0 width = 0 height = 585
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 35
-Handling the nodesAbout and x = 0 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 60
-Handling the nodesAlumni Network and x = 0 y = 0 width = 0 height = 44
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 60
-Handling the nodesOpen Source and x = 0 y = 0 width = 0 height = 44
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 35
-Handling the nodesShop and x = 0 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 35
-Handling the nodesSupport and x = 0 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 35
-Handling the nodesSponsors and x = 0 y = 0 width = 0 height = 19
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 60
-Handling the nodesAcademic Honesty and x = 0 y = 0 width = 0 height = 44
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 60
-Handling the nodesCode of Conduct and x = 0 y = 0 width = 0 height = 44
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 60
-Handling the nodesPrivacy Policy and x = 0 y = 0 width = 0 height = 44
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 85
-Handling the nodesTerms of Service and x = 0 y = 0 width = 0 height = 69
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 60
-Handling the nodesCopyright Policy and x = 0 y = 0 width = 0 height = 44
-Handling the nodes123 and x = 0 y = 0 width = 1 height = 1
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 0 height = 0
-Handling the nodes
- and x = 0 y = 0 width = 0 height = 0
-Handling the nodes123 and x = 0 y = 0 width = 1 height = 1
+        height="0" width="0" style="display:none;visibility:hidden" id="tag-manager"></iframe>Element: 65
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 66
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 67
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 68
+ Geometry x = 0 y = 56 width = 0 height = 0
+ text = 123Element: 69
+ Geometry x = 0 y = 0 width = 0 height = 56
+ text = 123Element: 70
+ Geometry x = -1000 y = 56 width = 0 height = 25
+ text = 123Element: 71
+ Geometry x = -1000 y = 57 width = 0 height = 22
+ text = Skip to contentElement: 72
+ Geometry x = 0 y = 0 width = 10 height = 56
+ text = 123Element: 73
+ Geometry x = 5 y = 16 width = 0 height = 24
+ text = 123Element: 74
+ Geometry x = 5 y = 16 width = 0 height = 24
+ text = 123Element: 75
+ Geometry x = 5 y = 16 width = 0 height = 0
+ text = 123Element: 76
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 77
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 78
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 79
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 80
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 81
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 82
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 83
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 84
+ Geometry x = 5 y = 16 width = 0 height = 0
+ text = 123Element: 85
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 86
+ Geometry x = 0 y = 16 width = 0 height = 0
+ text = 123Element: 87
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 88
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 89
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 90
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 91
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 92
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 93
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 94
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 95
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 96
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 97
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 98
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 99
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 100
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 101
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 102
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 103
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 104
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 105
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 106
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 107
+ Geometry x = 5 y = 16 width = 0 height = 0
+ text = 123Element: 108
+ Geometry x = 5 y = 16 width = 0 height = 0
+ text = 123Element: 109
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 110
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 111
+ Geometry x = 0 y = 16 width = 0 height = 0
+ text = 123Element: 112
+ Geometry x = 0 y = 16 width = 0 height = 0
+ text = 123Element: 113
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 114
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 115
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 116
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 117
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 118
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 119
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 120
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 121
+ Geometry x = 9 y = 13 width = 96 height = 30
+ text = 123Element: 122
+ Geometry x = 9 y = 13 width = 34 height = 30
+ text = 123Element: 123
+ Geometry x = 14 y = 16 width = 24 height = 24
+ text = 123Element: 124
+ Geometry x = 16 y = 18 width = 20 height = 20
+ text = 123Element: 125
+ Geometry x = 27 y = 0 width = 3 height = 0
+ text = 123Element: 126
+ Geometry x = 22 y = 0 width = 3 height = 0
+ text = 123Element: 127
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 128
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 129
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 130
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 131
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 132
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = EnglishElement: 133
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 134
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 135
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = EspañolElement: 136
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 137
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 138
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 中文（简体字）Element: 139
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 140
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 141
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 中文（繁體字）Element: 142
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 143
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 144
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = ItalianoElement: 145
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 146
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 147
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = PortuguêsElement: 148
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 149
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 150
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = УкраїнськаElement: 151
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 152
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 153
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 日本語Element: 154
+ Geometry x = 43 y = 13 width = 30 height = 30
+ text = 123Element: 155
+ Geometry x = 50 y = 0 width = 16 height = 25
+ text = 123Element: 156
+ Geometry x = 50 y = 0 width = 16 height = 18
+ text = 123Element: 157
+ Geometry x = 0 y = 21 width = 0 height = 0
+ text = 123Element: 158
+ Geometry x = 65 y = 0 width = 1 height = 1
+ text = 123Element: 159
+ Geometry x = 65 y = 0 width = 0 height = 22
+ text = MenuElement: 160
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 161
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = MenuElement: 162
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 163
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 164
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 165
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 166
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 167
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 168
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 169
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 170
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 171
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 172
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 173
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 174
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 175
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 176
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 177
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 178
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 179
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = DonateElement: 180
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 181
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 182
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = CurriculumElement: 183
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 184
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 185
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 186
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = ForumElement: 187
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 188
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 189
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 190
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 191
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 192
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = NewsElement: 193
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 194
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 195
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 196
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 197
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 198
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = RadioElement: 199
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 200
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 201
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 202
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 203
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 204
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = ContributeElement: 205
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 206
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 207
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 208
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 209
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 210
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Night ModeElement: 211
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 212
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Sign in to change theme.Element: 213
+ Geometry x = 73 y = 13 width = 32 height = 30
+ text = 123Element: 214
+ Geometry x = 80 y = 0 width = 18 height = 25
+ text = 123Element: 215
+ Geometry x = 80 y = 0 width = 18 height = 18
+ text = 123Element: 216
+ Geometry x = 80 y = 0 width = 18 height = 0
+ text = 123Element: 217
+ Geometry x = 97 y = 0 width = 1 height = 1
+ text = 123Element: 218
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text =  Element: 219
+ Geometry x = 97 y = 0 width = 0 height = 22
+ text = Sign inElement: 220
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 221
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Sign inElement: 222
+ Geometry x = 0 y = 56 width = 30 height = 0
+ text = 123Element: 223
+ Geometry x = 15 y = 56 width = 0 height = 0
+ text = 123Element: 224
+ Geometry x = 0 y = 56 width = 30 height = 0
+ text = 123Element: 225
+ Geometry x = 0 y = 56 width = 30 height = 0
+ text = 123Element: 226
+ Geometry x = 15 y = 56 width = 0 height = 60
+ text = 123Element: 227
+ Geometry x = 15 y = 0 width = 0 height = 812
+ text = 123Element: 228
+ Geometry x = 15 y = 0 width = 0 height = 820
+ text = Front End Development LibrariesElement: 229
+ Geometry x = 15 y = 0 width = 0 height = 30
+ text = 123Element: 230
+ Geometry x = 15 y = 0 width = 80 height = 80
+ text = 123Element: 231
+ Geometry x = 15 y = 0 width = 80 height = 0
+ text = 123Element: 232
+ Geometry x = 15 y = 0 width = 0 height = 30
+ text = 123Element: 233
+ Geometry x = 15 y = 0 width = 0 height = 702
+ text = 123Element: 234
+ Geometry x = 15 y = 0 width = 0 height = 697
+ text = Now that you're familiar with HTML, CSS, and JavaScript, level up your skills by learning some of the most popular front end libraries in the industry.Element: 235
+ Geometry x = 15 y = 0 width = 0 height = 891
+ text = 123Element: 236
+ Geometry x = 15 y = 0 width = 0 height = 886
+ text = In the Front End Development Libraries Certification, you'll learn how to style your site quickly with Bootstrap. You'll also learn how to add logic to your CSS styles and extend them with Sass.Element: 237
+ Geometry x = 15 y = 0 width = 0 height = 621
+ text = 123Element: 238
+ Geometry x = 15 y = 0 width = 0 height = 616
+ text = Later, you'll build a shopping cart and other applications to learn how to create powerful Single Page Applications (SPAs) with React and Redux.Element: 239
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Element: 240
+ Geometry x = 15 y = 0 width = 0 height = 60
+ text = 123Element: 241
+ Geometry x = 15 y = 0 width = 0 height = 182
+ text = 123Element: 242
+ Geometry x = 15 y = 0 width = 0 height = 189
+ text = CoursesElement: 243
+ Geometry x = 15 y = 0 width = 0 height = 30
+ text = 123Element: 244
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 245
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text =  Element: 246
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 247
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 248
+ Geometry x = 15 y = 0 width = 30 height = 242
+ text = 123Element: 249
+ Geometry x = 30 y = 0 width = 0 height = 214
+ text = BootstrapElement: 250
+ Geometry x = 15 y = 0 width = 30 height = 0
+ text = 123Element: 251
+ Geometry x = 30 y = 0 width = 0 height = 945
+ text = 123Element: 252
+ Geometry x = 30 y = 0 width = 0 height = 940
+ text = Bootstrap is a front end framework used to design responsive web pages and applications. It takes a mobile-first approach to web development, and includes pre-built CSS styles and classes, plus some JavaScript functionality.Element: 253
+ Geometry x = 30 y = 0 width = 0 height = 729
+ text = 123Element: 254
+ Geometry x = 30 y = 0 width = 0 height = 724
+ text = In this course, you'll learn how to build responsive websites with Bootstrap, and use its included classes to style buttons, images, forms, navigation, and other common elements.Element: 255
+ Geometry x = 15 y = 0 width = 30 height = 86
+ text = 123Element: 256
+ Geometry x = 30 y = 0 width = 14 height = 14
+ text = 123Element: 257
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 258
+ Geometry x = 44 y = 0 width = 0 height = 50
+ text = 123Element: 259
+ Geometry x = 44 y = 0 width = 0 height = 47
+ text = Collapse courseElement: 260
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text =  Element: 261
+ Geometry x = 43 y = 0 width = 1 height = 1
+ text = 123Element: 262
+ Geometry x = 43 y = 0 width = 0 height = 22
+ text = BootstrapElement: 263
+ Geometry x = 0 y = 0 width = 100 height = 25
+ text = 123Element: 264
+ Geometry x = 0 y = 0 width = 14 height = 15
+ text = 123Element: 265
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 266
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 267
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 268
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 269
+ Geometry x = 0 y = 0 width = 0 height = 25
+ text = 123Element: 270
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = 0/31Element: 271
+ Geometry x = 0 y = 0 width = 1 height = 1
+ text = 123Element: 272
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = ,Element: 273
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text =  Element: 274
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = 0 of 31 challenges completedElement: 275
+ Geometry x = 15 y = 0 width = 0 height = 4145
+ text = 123Element: 276
+ Geometry x = 15 y = 0 width = 0 height = 195
+ text = 123Element: 277
+ Geometry x = 15 y = 0 width = 30 height = 195
+ text = 123Element: 278
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 279
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 280
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 281
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 282
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 283
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 284
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 285
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 286
+ Geometry x = 45 y = 0 width = 0 height = 172
+ text = Use Responsive Design with Bootstrap Fluid ContainersElement: 287
+ Geometry x = 15 y = 0 width = 0 height = 120
+ text = 123Element: 288
+ Geometry x = 15 y = 0 width = 30 height = 120
+ text = 123Element: 289
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 290
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 291
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 292
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 293
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 294
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 295
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 296
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 297
+ Geometry x = 45 y = 0 width = 0 height = 97
+ text = Make Images Mobile ResponsiveElement: 298
+ Geometry x = 15 y = 0 width = 0 height = 95
+ text = 123Element: 299
+ Geometry x = 15 y = 0 width = 30 height = 95
+ text = 123Element: 300
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 301
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 302
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 303
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 304
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 305
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 306
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 307
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 308
+ Geometry x = 45 y = 0 width = 0 height = 72
+ text = Center Text with BootstrapElement: 309
+ Geometry x = 15 y = 0 width = 0 height = 95
+ text = 123Element: 310
+ Geometry x = 15 y = 0 width = 30 height = 95
+ text = 123Element: 311
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 312
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 313
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 314
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 315
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 316
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 317
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 318
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 319
+ Geometry x = 45 y = 0 width = 0 height = 72
+ text = Create a Bootstrap ButtonElement: 320
+ Geometry x = 15 y = 0 width = 0 height = 145
+ text = 123Element: 321
+ Geometry x = 15 y = 0 width = 30 height = 145
+ text = 123Element: 322
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 323
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 324
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 325
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 326
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 327
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 328
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 329
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 330
+ Geometry x = 45 y = 0 width = 0 height = 122
+ text = Create a Block Element Bootstrap ButtonElement: 331
+ Geometry x = 15 y = 0 width = 0 height = 145
+ text = 123Element: 332
+ Geometry x = 15 y = 0 width = 30 height = 145
+ text = 123Element: 333
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 334
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 335
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 336
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 337
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 338
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 339
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 340
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 341
+ Geometry x = 45 y = 0 width = 0 height = 122
+ text = Taste the Bootstrap Button Color RainbowElement: 342
+ Geometry x = 15 y = 0 width = 0 height = 145
+ text = 123Element: 343
+ Geometry x = 15 y = 0 width = 30 height = 145
+ text = 123Element: 344
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 345
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 346
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 347
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 348
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 349
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 350
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 351
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 352
+ Geometry x = 45 y = 0 width = 0 height = 122
+ text = Call out Optional Actions with btn-infoElement: 353
+ Geometry x = 15 y = 0 width = 0 height = 195
+ text = 123Element: 354
+ Geometry x = 15 y = 0 width = 30 height = 195
+ text = 123Element: 355
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 356
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 357
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 358
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 359
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 360
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 361
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 362
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 363
+ Geometry x = 45 y = 0 width = 0 height = 172
+ text = Warn Your Users of a Dangerous Action with btn-dangerElement: 364
+ Geometry x = 15 y = 0 width = 0 height = 195
+ text = 123Element: 365
+ Geometry x = 15 y = 0 width = 30 height = 195
+ text = 123Element: 366
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 367
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 368
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 369
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 370
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 371
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 372
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 373
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 374
+ Geometry x = 45 y = 0 width = 0 height = 172
+ text = Use the Bootstrap Grid to Put Elements Side By SideElement: 375
+ Geometry x = 15 y = 0 width = 0 height = 120
+ text = 123Element: 376
+ Geometry x = 15 y = 0 width = 30 height = 120
+ text = 123Element: 377
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 378
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 379
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 380
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 381
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 382
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 383
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 384
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 385
+ Geometry x = 45 y = 0 width = 0 height = 97
+ text = Ditch Custom CSS for BootstrapElement: 386
+ Geometry x = 15 y = 0 width = 0 height = 145
+ text = 123Element: 387
+ Geometry x = 15 y = 0 width = 30 height = 145
+ text = 123Element: 388
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 389
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 390
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 391
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 392
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 393
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 394
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 395
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 396
+ Geometry x = 45 y = 0 width = 0 height = 122
+ text = Use a span to Target Inline ElementsElement: 397
+ Geometry x = 15 y = 0 width = 0 height = 120
+ text = 123Element: 398
+ Geometry x = 15 y = 0 width = 30 height = 120
+ text = 123Element: 399
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 400
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 401
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 402
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 403
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 404
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 405
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 406
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 407
+ Geometry x = 45 y = 0 width = 0 height = 97
+ text = Create a Custom HeadingElement: 408
+ Geometry x = 15 y = 0 width = 0 height = 145
+ text = 123Element: 409
+ Geometry x = 15 y = 0 width = 30 height = 145
+ text = 123Element: 410
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 411
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 412
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 413
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 414
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 415
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 416
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 417
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 418
+ Geometry x = 45 y = 0 width = 0 height = 122
+ text = Add Font Awesome Icons to our ButtonsElement: 419
+ Geometry x = 15 y = 0 width = 0 height = 145
+ text = 123Element: 420
+ Geometry x = 15 y = 0 width = 30 height = 145
+ text = 123Element: 421
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 422
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 423
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 424
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 425
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 426
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 427
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 428
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 429
+ Geometry x = 45 y = 0 width = 0 height = 122
+ text = Add Font Awesome Icons to all of our ButtonsElement: 430
+ Geometry x = 15 y = 0 width = 0 height = 95
+ text = 123Element: 431
+ Geometry x = 15 y = 0 width = 30 height = 95
+ text = 123Element: 432
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 433
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 434
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 435
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 436
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 437
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 438
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 439
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 440
+ Geometry x = 45 y = 0 width = 0 height = 72
+ text = Responsively Style Radio ButtonsElement: 441
+ Geometry x = 15 y = 0 width = 0 height = 95
+ text = 123Element: 442
+ Geometry x = 15 y = 0 width = 30 height = 95
+ text = 123Element: 443
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 444
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 445
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 446
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 447
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 448
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 449
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 450
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 451
+ Geometry x = 45 y = 0 width = 0 height = 72
+ text = Responsively Style CheckboxesElement: 452
+ Geometry x = 15 y = 0 width = 0 height = 145
+ text = 123Element: 453
+ Geometry x = 15 y = 0 width = 30 height = 145
+ text = 123Element: 454
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 455
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 456
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 457
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 458
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 459
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 460
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 461
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 462
+ Geometry x = 45 y = 0 width = 0 height = 122
+ text = Style Text Inputs as Form ControlsElement: 463
+ Geometry x = 15 y = 0 width = 0 height = 145
+ text = 123Element: 464
+ Geometry x = 15 y = 0 width = 30 height = 145
+ text = 123Element: 465
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 466
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 467
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 468
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 469
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 470
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 471
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 472
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 473
+ Geometry x = 45 y = 0 width = 0 height = 122
+ text = Line up Form Elements Responsively with BootstrapElement: 474
+ Geometry x = 15 y = 0 width = 0 height = 95
+ text = 123Element: 475
+ Geometry x = 15 y = 0 width = 30 height = 95
+ text = 123Element: 476
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 477
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 478
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 479
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 480
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 481
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 482
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 483
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 484
+ Geometry x = 45 y = 0 width = 0 height = 72
+ text = Create a Bootstrap HeadlineElement: 485
+ Geometry x = 15 y = 0 width = 0 height = 170
+ text = 123Element: 486
+ Geometry x = 15 y = 0 width = 30 height = 170
+ text = 123Element: 487
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 488
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 489
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 490
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 491
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 492
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 493
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 494
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 495
+ Geometry x = 45 y = 0 width = 0 height = 147
+ text = House our page within a Bootstrap container-fluid divElement: 496
+ Geometry x = 15 y = 0 width = 0 height = 95
+ text = 123Element: 497
+ Geometry x = 15 y = 0 width = 30 height = 95
+ text = 123Element: 498
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 499
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 500
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 501
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 502
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 503
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 504
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 505
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 506
+ Geometry x = 45 y = 0 width = 0 height = 72
+ text = Create a Bootstrap RowElement: 507
+ Geometry x = 15 y = 0 width = 0 height = 95
+ text = 123Element: 508
+ Geometry x = 15 y = 0 width = 30 height = 95
+ text = 123Element: 509
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 510
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 511
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 512
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 513
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 514
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 515
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 516
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 517
+ Geometry x = 45 y = 0 width = 0 height = 72
+ text = Split Your Bootstrap RowElement: 518
+ Geometry x = 15 y = 0 width = 0 height = 95
+ text = 123Element: 519
+ Geometry x = 15 y = 0 width = 30 height = 95
+ text = 123Element: 520
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 521
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 522
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 523
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 524
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 525
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 526
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 527
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 528
+ Geometry x = 45 y = 0 width = 0 height = 72
+ text = Create Bootstrap WellsElement: 529
+ Geometry x = 15 y = 0 width = 0 height = 170
+ text = 123Element: 530
+ Geometry x = 15 y = 0 width = 30 height = 170
+ text = 123Element: 531
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 532
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 533
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 534
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 535
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 536
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 537
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 538
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 539
+ Geometry x = 45 y = 0 width = 0 height = 147
+ text = Add Elements within Your Bootstrap WellsElement: 540
+ Geometry x = 15 y = 0 width = 0 height = 145
+ text = 123Element: 541
+ Geometry x = 15 y = 0 width = 30 height = 145
+ text = 123Element: 542
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 543
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 544
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 545
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 546
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 547
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 548
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 549
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 550
+ Geometry x = 45 y = 0 width = 0 height = 122
+ text = Apply the Default Bootstrap Button StyleElement: 551
+ Geometry x = 15 y = 0 width = 0 height = 170
+ text = 123Element: 552
+ Geometry x = 15 y = 0 width = 30 height = 170
+ text = 123Element: 553
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 554
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 555
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 556
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 557
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 558
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 559
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 560
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 561
+ Geometry x = 45 y = 0 width = 0 height = 147
+ text = Create a Class to Target with jQuery SelectorsElement: 562
+ Geometry x = 15 y = 0 width = 0 height = 145
+ text = 123Element: 563
+ Geometry x = 15 y = 0 width = 30 height = 145
+ text = 123Element: 564
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 565
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 566
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 567
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 568
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 569
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 570
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 571
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 572
+ Geometry x = 45 y = 0 width = 0 height = 122
+ text = Add id Attributes to Bootstrap ElementsElement: 573
+ Geometry x = 15 y = 0 width = 0 height = 95
+ text = 123Element: 574
+ Geometry x = 15 y = 0 width = 30 height = 95
+ text = 123Element: 575
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 576
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 577
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 578
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 579
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 580
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 581
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 582
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 583
+ Geometry x = 45 y = 0 width = 0 height = 72
+ text = Label Bootstrap WellsElement: 584
+ Geometry x = 15 y = 0 width = 0 height = 170
+ text = 123Element: 585
+ Geometry x = 15 y = 0 width = 30 height = 170
+ text = 123Element: 586
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 587
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 588
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 589
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 590
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 591
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 592
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 593
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 594
+ Geometry x = 45 y = 0 width = 0 height = 147
+ text = Give Each Element a Unique idElement: 595
+ Geometry x = 15 y = 0 width = 0 height = 95
+ text = 123Element: 596
+ Geometry x = 15 y = 0 width = 30 height = 95
+ text = 123Element: 597
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 598
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 599
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 600
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 601
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 602
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 603
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 604
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 605
+ Geometry x = 45 y = 0 width = 0 height = 72
+ text = Label Bootstrap ButtonsElement: 606
+ Geometry x = 15 y = 0 width = 0 height = 120
+ text = 123Element: 607
+ Geometry x = 15 y = 0 width = 30 height = 120
+ text = 123Element: 608
+ Geometry x = 30 y = 0 width = 15 height = 25
+ text = 123Element: 609
+ Geometry x = 29 y = 0 width = 1 height = 1
+ text = 123Element: 610
+ Geometry x = 29 y = 0 width = 0 height = 22
+ text = Not PassedElement: 611
+ Geometry x = 30 y = 0 width = 15 height = 15
+ text = 123Element: 612
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 613
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 614
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 615
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 616
+ Geometry x = 45 y = 0 width = 0 height = 97
+ text = Use Comments to Clarify CodeElement: 617
+ Geometry x = 15 y = 0 width = 0 height = 30
+ text = 123Element: 618
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text =  Element: 619
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 620
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 621
+ Geometry x = 15 y = 0 width = 30 height = 173
+ text = 123Element: 622
+ Geometry x = 30 y = 0 width = 0 height = 145
+ text = jQueryElement: 623
+ Geometry x = 15 y = 0 width = 30 height = 0
+ text = 123Element: 624
+ Geometry x = 30 y = 0 width = 0 height = 351
+ text = 123Element: 625
+ Geometry x = 30 y = 0 width = 0 height = 346
+ text = jQuery is one of the most widely used JavaScript libraries in the world.Element: 626
+ Geometry x = 30 y = 0 width = 0 height = 945
+ text = 123Element: 627
+ Geometry x = 30 y = 0 width = 0 height = 940
+ text = In 2006 when it was released, all major browsers handled JavaScript slightly differently. jQuery simplified the process of writing client-side JavaScript, and also ensured that your code worked the same way in all browsers.Element: 628
+ Geometry x = 30 y = 0 width = 0 height = 540
+ text = 123Element: 629
+ Geometry x = 30 y = 0 width = 0 height = 535
+ text = In this course, you'll learn how to use jQuery to select, remove, clone, and modify different elements on the page.Element: 630
+ Geometry x = 15 y = 0 width = 30 height = 86
+ text = 123Element: 631
+ Geometry x = 30 y = 0 width = 14 height = 14
+ text = 123Element: 632
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 633
+ Geometry x = 44 y = 0 width = 0 height = 50
+ text = 123Element: 634
+ Geometry x = 44 y = 0 width = 0 height = 47
+ text = Expand courseElement: 635
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text =  Element: 636
+ Geometry x = 43 y = 0 width = 1 height = 1
+ text = 123Element: 637
+ Geometry x = 43 y = 0 width = 0 height = 22
+ text = jQueryElement: 638
+ Geometry x = 0 y = 0 width = 100 height = 25
+ text = 123Element: 639
+ Geometry x = 0 y = 0 width = 14 height = 15
+ text = 123Element: 640
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 641
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 642
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 643
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 644
+ Geometry x = 0 y = 0 width = 0 height = 25
+ text = 123Element: 645
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = 0/18Element: 646
+ Geometry x = 0 y = 0 width = 1 height = 1
+ text = 123Element: 647
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = ,Element: 648
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text =  Element: 649
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = 0 of 18 challenges completedElement: 650
+ Geometry x = 15 y = 0 width = 0 height = 30
+ text = 123Element: 651
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text =  Element: 652
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 653
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 654
+ Geometry x = 15 y = 0 width = 30 height = 127
+ text = 123Element: 655
+ Geometry x = 30 y = 0 width = 0 height = 99
+ text = SASSElement: 656
+ Geometry x = 15 y = 0 width = 30 height = 0
+ text = 123Element: 657
+ Geometry x = 30 y = 0 width = 0 height = 972
+ text = 123Element: 658
+ Geometry x = 30 y = 0 width = 0 height = 967
+ text = Sass, or "Syntactically Awesome StyleSheets", is a language extension of CSS. It adds features that aren't available in basic CSS, which make it easier for you to simplify and maintain the style sheets for your projects.Element: 659
+ Geometry x = 30 y = 0 width = 0 height = 756
+ text = 123Element: 660
+ Geometry x = 30 y = 0 width = 0 height = 751
+ text = In this Sass course, you'll learn how to store data in variables, nest CSS, create reusable styles with mixins, add logic and loops to your styles, and more.Element: 661
+ Geometry x = 15 y = 0 width = 30 height = 86
+ text = 123Element: 662
+ Geometry x = 30 y = 0 width = 14 height = 14
+ text = 123Element: 663
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 664
+ Geometry x = 44 y = 0 width = 0 height = 50
+ text = 123Element: 665
+ Geometry x = 44 y = 0 width = 0 height = 47
+ text = Expand courseElement: 666
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text =  Element: 667
+ Geometry x = 43 y = 0 width = 1 height = 1
+ text = 123Element: 668
+ Geometry x = 43 y = 0 width = 0 height = 22
+ text = SASSElement: 669
+ Geometry x = 0 y = 0 width = 100 height = 25
+ text = 123Element: 670
+ Geometry x = 0 y = 0 width = 14 height = 15
+ text = 123Element: 671
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 672
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 673
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 674
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 675
+ Geometry x = 0 y = 0 width = 0 height = 25
+ text = 123Element: 676
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = 0/9Element: 677
+ Geometry x = 0 y = 0 width = 1 height = 1
+ text = 123Element: 678
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = ,Element: 679
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text =  Element: 680
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = 0 of 9 challenges completedElement: 681
+ Geometry x = 15 y = 0 width = 0 height = 30
+ text = 123Element: 682
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text =  Element: 683
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 684
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 685
+ Geometry x = 15 y = 0 width = 30 height = 150
+ text = 123Element: 686
+ Geometry x = 30 y = 0 width = 0 height = 122
+ text = ReactElement: 687
+ Geometry x = 15 y = 0 width = 30 height = 0
+ text = 123Element: 688
+ Geometry x = 30 y = 0 width = 0 height = 486
+ text = 123Element: 689
+ Geometry x = 30 y = 0 width = 0 height = 481
+ text = React is a popular JavaScript library for building reusable, component-driven user interfaces for web pages or applications.Element: 690
+ Geometry x = 30 y = 0 width = 0 height = 729
+ text = 123Element: 691
+ Geometry x = 30 y = 0 width = 0 height = 724
+ text = React combines HTML with JavaScript functionality into its own markup language called JSX. React also makes it easy to manage the flow of data throughout the application.Element: 692
+ Geometry x = 30 y = 0 width = 0 height = 757
+ text = 123Element: 693
+ Geometry x = 30 y = 0 width = 0 height = 643
+ text = In this course, you'll learn how to create different React components, manage data in the form of state props, use different lifecycle methods like Element: 694
+ Geometry x = 30 y = 0 width = 0 height = 25
+ text = 123Element: 695
+ Geometry x = 35 y = 0 width = 0 height = 21
+ text = componentDidMountElement: 696
+ Geometry x = 30 y = 0 width = 0 height = 104
+ text = , and much more.Element: 697
+ Geometry x = 15 y = 0 width = 30 height = 86
+ text = 123Element: 698
+ Geometry x = 30 y = 0 width = 14 height = 14
+ text = 123Element: 699
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 700
+ Geometry x = 44 y = 0 width = 0 height = 50
+ text = 123Element: 701
+ Geometry x = 44 y = 0 width = 0 height = 47
+ text = Expand courseElement: 702
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text =  Element: 703
+ Geometry x = 43 y = 0 width = 1 height = 1
+ text = 123Element: 704
+ Geometry x = 43 y = 0 width = 0 height = 22
+ text = ReactElement: 705
+ Geometry x = 0 y = 0 width = 100 height = 25
+ text = 123Element: 706
+ Geometry x = 0 y = 0 width = 14 height = 15
+ text = 123Element: 707
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 708
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 709
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 710
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 711
+ Geometry x = 0 y = 0 width = 0 height = 25
+ text = 123Element: 712
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = 0/47Element: 713
+ Geometry x = 0 y = 0 width = 1 height = 1
+ text = 123Element: 714
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = ,Element: 715
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text =  Element: 716
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = 0 of 47 challenges completedElement: 717
+ Geometry x = 15 y = 0 width = 0 height = 30
+ text = 123Element: 718
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text =  Element: 719
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 720
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 721
+ Geometry x = 15 y = 0 width = 30 height = 150
+ text = 123Element: 722
+ Geometry x = 30 y = 0 width = 0 height = 122
+ text = ReduxElement: 723
+ Geometry x = 15 y = 0 width = 30 height = 0
+ text = 123Element: 724
+ Geometry x = 30 y = 0 width = 0 height = 999
+ text = 123Element: 725
+ Geometry x = 30 y = 0 width = 0 height = 994
+ text = As applications grow in size and scope, managing shared data becomes much more difficult. Redux is defined as a "predictable state container for JavaScript apps" that helps ensure your apps work predictably, and are easier to test.Element: 726
+ Geometry x = 30 y = 0 width = 0 height = 648
+ text = 123Element: 727
+ Geometry x = 30 y = 0 width = 0 height = 643
+ text = While you can use Redux with any view library, we introduce Redux here before combining it with React in the next set of courses.Element: 728
+ Geometry x = 30 y = 0 width = 0 height = 540
+ text = 123Element: 729
+ Geometry x = 30 y = 0 width = 0 height = 535
+ text = In this course, you'll learn the fundamentals of Redux stores, actions, reducers and middleware to manage data throughout your application.Element: 730
+ Geometry x = 15 y = 0 width = 30 height = 86
+ text = 123Element: 731
+ Geometry x = 30 y = 0 width = 14 height = 14
+ text = 123Element: 732
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 733
+ Geometry x = 44 y = 0 width = 0 height = 50
+ text = 123Element: 734
+ Geometry x = 44 y = 0 width = 0 height = 47
+ text = Expand courseElement: 735
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text =  Element: 736
+ Geometry x = 43 y = 0 width = 1 height = 1
+ text = 123Element: 737
+ Geometry x = 43 y = 0 width = 0 height = 22
+ text = ReduxElement: 738
+ Geometry x = 0 y = 0 width = 100 height = 25
+ text = 123Element: 739
+ Geometry x = 0 y = 0 width = 14 height = 15
+ text = 123Element: 740
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 741
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 742
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 743
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 744
+ Geometry x = 0 y = 0 width = 0 height = 25
+ text = 123Element: 745
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = 0/17Element: 746
+ Geometry x = 0 y = 0 width = 1 height = 1
+ text = 123Element: 747
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = ,Element: 748
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text =  Element: 749
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = 0 of 17 challenges completedElement: 750
+ Geometry x = 15 y = 0 width = 0 height = 30
+ text = 123Element: 751
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text =  Element: 752
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 753
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 754
+ Geometry x = 15 y = 0 width = 30 height = 334
+ text = 123Element: 755
+ Geometry x = 30 y = 0 width = 0 height = 306
+ text = React and ReduxElement: 756
+ Geometry x = 15 y = 0 width = 30 height = 0
+ text = 123Element: 757
+ Geometry x = 30 y = 0 width = 0 height = 864
+ text = 123Element: 758
+ Geometry x = 30 y = 0 width = 0 height = 859
+ text = React and Redux are often mentioned together, and with good reason. The developer who created Redux was a React developer who wanted to make it easier to share data across different components.Element: 759
+ Geometry x = 30 y = 0 width = 0 height = 1377
+ text = 123Element: 760
+ Geometry x = 30 y = 0 width = 0 height = 1372
+ text = Now that you know how to manage the flow of shared data with Redux, it's time to combine that knowledge with React. In the React and Redux courses, you'll build a React component and learn how to manage state locally at the component level, and throughout the entire application with Redux.Element: 761
+ Geometry x = 15 y = 0 width = 30 height = 86
+ text = 123Element: 762
+ Geometry x = 30 y = 0 width = 14 height = 14
+ text = 123Element: 763
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 764
+ Geometry x = 44 y = 0 width = 0 height = 50
+ text = 123Element: 765
+ Geometry x = 44 y = 0 width = 0 height = 47
+ text = Expand courseElement: 766
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text =  Element: 767
+ Geometry x = 43 y = 0 width = 1 height = 1
+ text = 123Element: 768
+ Geometry x = 43 y = 0 width = 0 height = 22
+ text = React and ReduxElement: 769
+ Geometry x = 0 y = 0 width = 100 height = 25
+ text = 123Element: 770
+ Geometry x = 0 y = 0 width = 14 height = 15
+ text = 123Element: 771
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 772
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 773
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 774
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 775
+ Geometry x = 0 y = 0 width = 0 height = 25
+ text = 123Element: 776
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = 0/10Element: 777
+ Geometry x = 0 y = 0 width = 1 height = 1
+ text = 123Element: 778
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = ,Element: 779
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text =  Element: 780
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = 0 of 10 challenges completedElement: 781
+ Geometry x = 15 y = 0 width = 0 height = 30
+ text = 123Element: 782
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 783
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 784
+ Geometry x = 15 y = 0 width = 30 height = 863
+ text = 123Element: 785
+ Geometry x = 30 y = 0 width = 0 height = 835
+ text = Front End Development Libraries ProjectsElement: 786
+ Geometry x = 15 y = 0 width = 30 height = 0
+ text = 123Element: 787
+ Geometry x = 30 y = 0 width = 0 height = 918
+ text = 123Element: 788
+ Geometry x = 30 y = 0 width = 0 height = 913
+ text = It's time to put your front end development libraries skills to the test. Use Bootstrap, jQuery, Sass, React, and Redux to build 5 projects that will test everything you've learned up to this point.Element: 789
+ Geometry x = 30 y = 0 width = 0 height = 351
+ text = 123Element: 790
+ Geometry x = 30 y = 0 width = 0 height = 346
+ text = Complete all 5 projects, and you'll earn the Front End Development Libraries certification.Element: 791
+ Geometry x = 15 y = 0 width = 0 height = 525
+ text = 123Element: 792
+ Geometry x = 15 y = 0 width = 0 height = 120
+ text = 123Element: 793
+ Geometry x = 15 y = 0 width = 30 height = 120
+ text = 123Element: 794
+ Geometry x = 30 y = 0 width = 0 height = 97
+ text = Build a Random Quote MachineElement: 795
+ Geometry x = 0 y = 0 width = 30 height = 25
+ text = 123Element: 796
+ Geometry x = 0 y = 0 width = 1 height = 1
+ text = 123Element: 797
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = Not PassedElement: 798
+ Geometry x = 0 y = 0 width = 15 height = 15
+ text = 123Element: 799
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 800
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 801
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 802
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 803
+ Geometry x = 15 y = 0 width = 0 height = 95
+ text = 123Element: 804
+ Geometry x = 15 y = 0 width = 30 height = 95
+ text = 123Element: 805
+ Geometry x = 30 y = 0 width = 0 height = 72
+ text = Build a Markdown PreviewerElement: 806
+ Geometry x = 0 y = 0 width = 30 height = 25
+ text = 123Element: 807
+ Geometry x = 0 y = 0 width = 1 height = 1
+ text = 123Element: 808
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = Not PassedElement: 809
+ Geometry x = 0 y = 0 width = 15 height = 15
+ text = 123Element: 810
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 811
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 812
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 813
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 814
+ Geometry x = 15 y = 0 width = 0 height = 95
+ text = 123Element: 815
+ Geometry x = 15 y = 0 width = 30 height = 95
+ text = 123Element: 816
+ Geometry x = 30 y = 0 width = 0 height = 72
+ text = Build a Drum MachineElement: 817
+ Geometry x = 0 y = 0 width = 30 height = 25
+ text = 123Element: 818
+ Geometry x = 0 y = 0 width = 1 height = 1
+ text = 123Element: 819
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = Not PassedElement: 820
+ Geometry x = 0 y = 0 width = 15 height = 15
+ text = 123Element: 821
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 822
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 823
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 824
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 825
+ Geometry x = 15 y = 0 width = 0 height = 95
+ text = 123Element: 826
+ Geometry x = 15 y = 0 width = 30 height = 95
+ text = 123Element: 827
+ Geometry x = 30 y = 0 width = 0 height = 72
+ text = Build a JavaScript CalculatorElement: 828
+ Geometry x = 0 y = 0 width = 30 height = 25
+ text = 123Element: 829
+ Geometry x = 0 y = 0 width = 1 height = 1
+ text = 123Element: 830
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = Not PassedElement: 831
+ Geometry x = 0 y = 0 width = 15 height = 15
+ text = 123Element: 832
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 833
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 834
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 835
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 836
+ Geometry x = 15 y = 0 width = 0 height = 120
+ text = 123Element: 837
+ Geometry x = 15 y = 0 width = 30 height = 120
+ text = 123Element: 838
+ Geometry x = 30 y = 0 width = 0 height = 97
+ text = Build a 25 + 5 ClockElement: 839
+ Geometry x = 0 y = 0 width = 30 height = 25
+ text = 123Element: 840
+ Geometry x = 0 y = 0 width = 1 height = 1
+ text = 123Element: 841
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = Not PassedElement: 842
+ Geometry x = 0 y = 0 width = 15 height = 15
+ text = 123Element: 843
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 844
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 845
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Not PassedElement: 846
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 847
+ Geometry x = 15 y = 0 width = 0 height = 30
+ text = 123Element: 848
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 849
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 850
+ Geometry x = 15 y = 0 width = 0 height = 268
+ text = 123Element: 851
+ Geometry x = 15 y = 0 width = 0 height = 60
+ text = 123Element: 852
+ Geometry x = 15 y = 0 width = 30 height = 208
+ text = 123Element: 853
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 854
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 855
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 856
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 857
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text =  Element: 858
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = Sign inElement: 859
+ Geometry x = 0 y = 0 width = 0 height = 192
+ text = 123Element: 860
+ Geometry x = 0 y = 0 width = 0 height = 188
+ text = Sign in to save your progress (it's free)Element: 861
+ Geometry x = 15 y = 0 width = 0 height = 60
+ text = 123Element: 862
+ Geometry x = 15 y = 0 width = 0 height = 1449
+ text = 123Element: 863
+ Geometry x = 15 y = 0 width = 0 height = 1456
+ text = Browse our other free certifications
+(we recommend doing these in order)Element: 864
+ Geometry x = 15 y = 0 width = 0 height = 30
+ text = 123Element: 865
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 866
+ Geometry x = 15 y = 0 width = 0 height = 192
+ text = 123Element: 867
+ Geometry x = 15 y = 0 width = 0 height = 198
+ text = Earn free verified certifications with freeCodeCamp's core curriculum:Element: 868
+ Geometry x = 15 y = 0 width = 0 height = 1478
+ text = 123Element: 869
+ Geometry x = 15 y = 0 width = 0 height = 98
+ text = 123Element: 870
+ Geometry x = 15 y = 0 width = 38 height = 98
+ text = 123Element: 871
+ Geometry x = 34 y = 0 width = 0 height = 72
+ text = 123Element: 872
+ Geometry x = 39 y = 0 width = 35 height = 28
+ text = 123Element: 873
+ Geometry x = 39 y = 0 width = 35 height = 28
+ text = 123Element: 874
+ Geometry x = 74 y = 0 width = 0 height = 70
+ text = Responsive Web Design CertificationElement: 875
+ Geometry x = 15 y = 0 width = 0 height = 146
+ text = 123Element: 876
+ Geometry x = 15 y = 0 width = 38 height = 146
+ text = 123Element: 877
+ Geometry x = 34 y = 0 width = 0 height = 120
+ text = 123Element: 878
+ Geometry x = 39 y = 0 width = 35 height = 40
+ text = 123Element: 879
+ Geometry x = 39 y = 0 width = 35 height = 35
+ text = 123Element: 880
+ Geometry x = 74 y = 0 width = 0 height = 118
+ text = JavaScript Algorithms and Data Structures CertificationElement: 881
+ Geometry x = 15 y = 0 width = 0 height = 122
+ text = 123Element: 882
+ Geometry x = 15 y = 0 width = 38 height = 122
+ text = 123Element: 883
+ Geometry x = 34 y = 0 width = 0 height = 96
+ text = 123Element: 884
+ Geometry x = 39 y = 0 width = 35 height = 35
+ text = 123Element: 885
+ Geometry x = 39 y = 0 width = 35 height = 0
+ text = 123Element: 886
+ Geometry x = 74 y = 0 width = 0 height = 94
+ text = Front End Development Libraries CertificationElement: 887
+ Geometry x = 15 y = 0 width = 0 height = 98
+ text = 123Element: 888
+ Geometry x = 15 y = 0 width = 38 height = 98
+ text = 123Element: 889
+ Geometry x = 34 y = 0 width = 0 height = 72
+ text = 123Element: 890
+ Geometry x = 39 y = 0 width = 35 height = 33
+ text = 123Element: 891
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 892
+ Geometry x = 74 y = 0 width = 0 height = 70
+ text = Data Visualization CertificationElement: 893
+ Geometry x = 15 y = 0 width = 0 height = 98
+ text = 123Element: 894
+ Geometry x = 15 y = 0 width = 38 height = 98
+ text = 123Element: 895
+ Geometry x = 34 y = 0 width = 0 height = 72
+ text = 123Element: 896
+ Geometry x = 39 y = 0 width = 35 height = 40
+ text = 123Element: 897
+ Geometry x = 39 y = 0 width = 35 height = 40
+ text = 123Element: 898
+ Geometry x = 74 y = 0 width = 0 height = 70
+ text = Relational Database CertificationElement: 899
+ Geometry x = 15 y = 0 width = 0 height = 122
+ text = 123Element: 900
+ Geometry x = 15 y = 0 width = 38 height = 122
+ text = 123Element: 901
+ Geometry x = 34 y = 0 width = 0 height = 96
+ text = 123Element: 902
+ Geometry x = 39 y = 0 width = 35 height = 35
+ text = 123Element: 903
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 904
+ Geometry x = 74 y = 0 width = 0 height = 94
+ text = Back End Development and APIs CertificationElement: 905
+ Geometry x = 15 y = 0 width = 0 height = 98
+ text = 123Element: 906
+ Geometry x = 15 y = 0 width = 38 height = 98
+ text = 123Element: 907
+ Geometry x = 34 y = 0 width = 0 height = 72
+ text = 123Element: 908
+ Geometry x = 39 y = 0 width = 35 height = 45
+ text = 123Element: 909
+ Geometry x = 0 y = 0 width = 0 height = 45
+ text = 123Element: 910
+ Geometry x = 74 y = 0 width = 0 height = 70
+ text = Quality Assurance CertificationElement: 911
+ Geometry x = 15 y = 0 width = 0 height = 122
+ text = 123Element: 912
+ Geometry x = 15 y = 0 width = 38 height = 122
+ text = 123Element: 913
+ Geometry x = 34 y = 0 width = 0 height = 96
+ text = 123Element: 914
+ Geometry x = 39 y = 0 width = 35 height = 40
+ text = 123Element: 915
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 916
+ Geometry x = 74 y = 0 width = 0 height = 94
+ text = Scientific Computing with Python CertificationElement: 917
+ Geometry x = 15 y = 0 width = 0 height = 122
+ text = 123Element: 918
+ Geometry x = 15 y = 0 width = 38 height = 122
+ text = 123Element: 919
+ Geometry x = 34 y = 0 width = 0 height = 96
+ text = 123Element: 920
+ Geometry x = 39 y = 0 width = 35 height = 31
+ text = 123Element: 921
+ Geometry x = 0 y = 0 width = 0 height = 31
+ text = 123Element: 922
+ Geometry x = 74 y = 0 width = 0 height = 94
+ text = Data Analysis with Python CertificationElement: 923
+ Geometry x = 15 y = 0 width = 0 height = 98
+ text = 123Element: 924
+ Geometry x = 15 y = 0 width = 38 height = 98
+ text = 123Element: 925
+ Geometry x = 34 y = 0 width = 0 height = 72
+ text = 123Element: 926
+ Geometry x = 39 y = 0 width = 35 height = 35
+ text = 123Element: 927
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 928
+ Geometry x = 74 y = 0 width = 0 height = 70
+ text = Information Security CertificationElement: 929
+ Geometry x = 15 y = 0 width = 0 height = 122
+ text = 123Element: 930
+ Geometry x = 15 y = 0 width = 38 height = 122
+ text = 123Element: 931
+ Geometry x = 34 y = 0 width = 0 height = 96
+ text = 123Element: 932
+ Geometry x = 39 y = 0 width = 35 height = 35
+ text = 123Element: 933
+ Geometry x = 0 y = 0 width = 0 height = 35
+ text = 123Element: 934
+ Geometry x = 74 y = 0 width = 0 height = 94
+ text = Machine Learning with Python CertificationElement: 935
+ Geometry x = 15 y = 0 width = 0 height = 122
+ text = 123Element: 936
+ Geometry x = 15 y = 0 width = 38 height = 122
+ text = 123Element: 937
+ Geometry x = 34 y = 0 width = 0 height = 96
+ text = 123Element: 938
+ Geometry x = 39 y = 0 width = 35 height = 28
+ text = 123Element: 939
+ Geometry x = 39 y = 0 width = 0 height = 0
+ text = 123Element: 940
+ Geometry x = 74 y = 0 width = 0 height = 94
+ text = College Algebra with Python CertificationElement: 941
+ Geometry x = 15 y = 0 width = 0 height = 30
+ text = 123Element: 942
+ Geometry x = 15 y = 0 width = 0 height = 96
+ text = 123Element: 943
+ Geometry x = 15 y = 0 width = 0 height = 102
+ text = Earn free professional certifications:Element: 944
+ Geometry x = 15 y = 0 width = 0 height = 146
+ text = 123Element: 945
+ Geometry x = 15 y = 0 width = 0 height = 146
+ text = 123Element: 946
+ Geometry x = 15 y = 0 width = 38 height = 146
+ text = 123Element: 947
+ Geometry x = 34 y = 0 width = 0 height = 120
+ text = 123Element: 948
+ Geometry x = 39 y = 0 width = 35 height = 35
+ text = 123Element: 949
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 950
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 951
+ Geometry x = 74 y = 0 width = 0 height = 118
+ text = (New) Foundational C# with Microsoft CertificationElement: 952
+ Geometry x = 15 y = 0 width = 0 height = 30
+ text = 123Element: 953
+ Geometry x = 15 y = 0 width = 0 height = 168
+ text = 123Element: 954
+ Geometry x = 15 y = 0 width = 0 height = 174
+ text = Prepare for the developer interview job search:Element: 955
+ Geometry x = 15 y = 0 width = 0 height = 188
+ text = 123Element: 956
+ Geometry x = 15 y = 0 width = 0 height = 98
+ text = 123Element: 957
+ Geometry x = 15 y = 0 width = 38 height = 98
+ text = 123Element: 958
+ Geometry x = 34 y = 0 width = 0 height = 72
+ text = 123Element: 959
+ Geometry x = 39 y = 0 width = 35 height = 28
+ text = 123Element: 960
+ Geometry x = 39 y = 0 width = 35 height = 0
+ text = 123Element: 961
+ Geometry x = 74 y = 0 width = 0 height = 70
+ text = Coding Interview PrepElement: 962
+ Geometry x = 15 y = 0 width = 0 height = 80
+ text = 123Element: 963
+ Geometry x = 15 y = 0 width = 38 height = 80
+ text = 123Element: 964
+ Geometry x = 34 y = 0 width = 0 height = 48
+ text = 123Element: 965
+ Geometry x = 39 y = 0 width = 35 height = 35
+ text = 123Element: 966
+ Geometry x = 39 y = 0 width = 35 height = 0
+ text = 123Element: 967
+ Geometry x = 74 y = 0 width = 0 height = 46
+ text = Project EulerElement: 968
+ Geometry x = 15 y = 0 width = 0 height = 60
+ text = 123Element: 969
+ Geometry x = 0 y = 0 width = 30 height = 0
+ text = 123Element: 970
+ Geometry x = 15 y = 0 width = 0 height = 0
+ text = 123Element: 971
+ Geometry x = 15 y = 0 width = 304 height = 0
+ text = 123Element: 972
+ Geometry x = 15 y = 0 width = 304 height = 120
+ text = 123Element: 973
+ Geometry x = 15 y = 0 width = 0 height = 109
+ text = freeCodeCamp is a donor-supported tax-exempt 501(c)(3) charitable organization (United States Federal Tax Identification Number: 82-0779546)Element: 974
+ Geometry x = 15 y = 0 width = 304 height = 210
+ text = 123Element: 975
+ Geometry x = 15 y = 0 width = 0 height = 199
+ text = Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.Element: 976
+ Geometry x = 15 y = 0 width = 304 height = 90
+ text = 123Element: 977
+ Geometry x = 15 y = 0 width = 0 height = 79
+ text = Donations to freeCodeCamp go toward our education initiatives, and help pay for servers, services, and staff.Element: 978
+ Geometry x = 15 y = 0 width = 304 height = 60
+ text = 123Element: 979
+ Geometry x = 15 y = 0 width = 0 height = 22
+ text = You can Element: 980
+ Geometry x = 15 y = 0 width = 0 height = 56
+ text = 123Element: 981
+ Geometry x = 15 y = 0 width = 0 height = 52
+ text = make a tax-deductible donation hereElement: 982
+ Geometry x = 0 y = 0 width = 0 height = 22
+ text = .Element: 983
+ Geometry x = 15 y = 0 width = 304 height = 0
+ text = 123Element: 984
+ Geometry x = 15 y = 0 width = 304 height = 32
+ text = 123Element: 985
+ Geometry x = 0 y = 0 width = 0 height = 23
+ text = Trending GuidesElement: 986
+ Geometry x = 15 y = 0 width = 304 height = 1011
+ text = 123Element: 987
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 988
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 989
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Exponents in PythonElement: 990
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 991
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 992
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = sizeof Operator in CElement: 993
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 994
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 995
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Dijkstra’s AlgorithmElement: 996
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 997
+ Geometry x = 15 y = 0 width = 160 height = 23
+ text = 123Element: 998
+ Geometry x = 17 y = 0 width = 156 height = 19
+ text = enumerate() in PythonElement: 999
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1000
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1001
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = What is an Algorithm?Element: 1002
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1003
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1004
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Parse a Boolean in JSElement: 1005
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1006
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1007
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Python Datetime.now()Element: 1008
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1009
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1010
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Int to String in JavaElement: 1011
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1012
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1013
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Python Length of ListElement: 1014
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1015
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1016
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Escape a String in JSElement: 1017
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1018
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1019
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = What is SQL?Element: 1020
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1021
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1022
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = HTML New LineElement: 1023
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1024
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1025
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Python SlicingElement: 1026
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1027
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1028
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = JavaScript RangeElement: 1029
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1030
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1031
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = JS Check for NullElement: 1032
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1033
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1034
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Java List ExampleElement: 1035
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1036
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1037
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Merge Arrays in JSElement: 1038
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1039
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1040
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = JS Modulo OperatorElement: 1041
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1042
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1043
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = What is a REST API?Element: 1044
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1045
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1046
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = JavaScript EncodingElement: 1047
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1048
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1049
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = JavaScript Get RequestElement: 1050
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1051
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1052
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = JS .reverse() FunctionElement: 1053
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1054
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1055
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Visual Studio vs VSCodeElement: 1056
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1057
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1058
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Python Lambda FunctionsElement: 1059
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1060
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1061
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Python Remove from StringElement: 1062
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1063
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1064
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Python String to DatetimeElement: 1065
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1066
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1067
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = What is Prim’s Algorithm?Element: 1068
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1069
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1070
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Different Casings ExplainedElement: 1071
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1072
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1073
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Principle of Least PrivilegeElement: 1074
+ Geometry x = 15 y = 0 width = 304 height = 25
+ text = 123Element: 1075
+ Geometry x = 15 y = 0 width = 0 height = 23
+ text = 123Element: 1076
+ Geometry x = 17 y = 0 width = 0 height = 19
+ text = Data Structures & AlgorithmsElement: 1077
+ Geometry x = 15 y = 0 width = 0 height = 634
+ text = 123Element: 1078
+ Geometry x = 15 y = 0 width = 30 height = 49
+ text = 123Element: 1079
+ Geometry x = 30 y = 0 width = 0 height = 40
+ text = Our CharityElement: 1080
+ Geometry x = 15 y = 0 width = 0 height = 585
+ text = 123Element: 1081
+ Geometry x = 0 y = 0 width = 0 height = 35
+ text = 123Element: 1082
+ Geometry x = 0 y = 0 width = 0 height = 19
+ text = AboutElement: 1083
+ Geometry x = 0 y = 0 width = 0 height = 60
+ text = 123Element: 1084
+ Geometry x = 0 y = 0 width = 0 height = 44
+ text = Alumni NetworkElement: 1085
+ Geometry x = 0 y = 0 width = 0 height = 60
+ text = 123Element: 1086
+ Geometry x = 0 y = 0 width = 0 height = 44
+ text = Open SourceElement: 1087
+ Geometry x = 0 y = 0 width = 0 height = 35
+ text = 123Element: 1088
+ Geometry x = 0 y = 0 width = 0 height = 19
+ text = ShopElement: 1089
+ Geometry x = 0 y = 0 width = 0 height = 35
+ text = 123Element: 1090
+ Geometry x = 0 y = 0 width = 0 height = 19
+ text = SupportElement: 1091
+ Geometry x = 0 y = 0 width = 0 height = 35
+ text = 123Element: 1092
+ Geometry x = 0 y = 0 width = 0 height = 19
+ text = SponsorsElement: 1093
+ Geometry x = 0 y = 0 width = 0 height = 60
+ text = 123Element: 1094
+ Geometry x = 0 y = 0 width = 0 height = 44
+ text = Academic HonestyElement: 1095
+ Geometry x = 0 y = 0 width = 0 height = 60
+ text = 123Element: 1096
+ Geometry x = 0 y = 0 width = 0 height = 44
+ text = Code of ConductElement: 1097
+ Geometry x = 0 y = 0 width = 0 height = 60
+ text = 123Element: 1098
+ Geometry x = 0 y = 0 width = 0 height = 44
+ text = Privacy PolicyElement: 1099
+ Geometry x = 0 y = 0 width = 0 height = 85
+ text = 123Element: 1100
+ Geometry x = 0 y = 0 width = 0 height = 69
+ text = Terms of ServiceElement: 1101
+ Geometry x = 0 y = 0 width = 0 height = 60
+ text = 123Element: 1102
+ Geometry x = 0 y = 0 width = 0 height = 44
+ text = Copyright PolicyElement: 1103
+ Geometry x = 0 y = 0 width = 1 height = 1
+ text = 123Element: 1104
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 1105
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 1106
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 1107
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 1108
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 1109
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 1110
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 1111
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 1112
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 1113
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 1114
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 1115
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 1116
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 1117
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 123Element: 1118
+ Geometry x = 0 y = 0 width = 0 height = 0
+ text = 
+Element: 1119
+ Geometry x = 0 y = 0 width = 1 height = 1
+ text = 123
