@@ -17,6 +17,7 @@
 
 package org.luwrain.web;
 
+// Scanner
 import java.util.*;
 import java.util.logging.FileHandler;
 import java.util.logging.Logger;
@@ -45,6 +46,7 @@ import netscape.javascript.JSObject;
 import java.util.logging.Logger;
 
 import org.luwrain.core.*;
+import org.luwrain.web.WebKitGeomInfo.Item;
 
 import java.lang.System;
 
@@ -77,7 +79,7 @@ public final class WebKitGeomInfo {
 		// создание файла для посмотря результатов в виде txt
 		File file2 = new File("WebKitGeomInfo Test.txt");
 		FileWriter writer2 = new FileWriter("WebKitGeomInfo Test.txt");
-		writer2.write("Hello world! 1\n");
+		writer2.write("Geometry\n");
 
 		for (int i = 0; !(o = root.getSlot(i)).getClass().equals(String.class); i++) {
 
@@ -103,8 +105,9 @@ public final class WebKitGeomInfo {
 
 					try {
 						// writer2.append()
-						writer2.write("Handling the nodes" + String.valueOf(text) + " and x = " + x + " y = " + y
-								+ " width = " + width + " height = " + height + "\n");
+						writer2.write("Element: " + i + "\n" + " Geometry x = " + x + " y = " + y
+								+ " width = " + width + " height = " + height + "\n" + " text = --------\n\n"
+								+ String.valueOf(text));
 
 					} catch (IOException e) {
 						e.printStackTrace(System.err);
@@ -129,49 +132,121 @@ public final class WebKitGeomInfo {
 		// отработка нодов
 		traverseNodesDFS();
 
-		// this.nodes = new HashMap<>();
-		// this.nodes = nodes;
-
 		try (FileWriter writer3 = new FileWriter("WebKitGeomInfo Node Test.txt")) {
+			int j = -1;
 
 			// 3. Проверка корректности получения геометрии для выделенных тего
 			Map<Node, Item> nodes = getNodes();
-			// Map<Node, Item> retrieveNodes = getNodes();
-			// получение узлов Map
-
-			// итерация со свойствами узлов
 			for (Map.Entry<Node, Item> entry : nodes.entrySet()) {
 				Node node = entry.getKey();
 				Item item = entry.getValue();
+				j += 1;
 
-				// 4. Пересчет геометрии под новыми координатами
-				// Доступ к свойствам узлов и элемента
-				int x = item.x;
-				int y = item.y;
-				int width = item.width;
-				int height = item.height;
-				String text = item.text;
+				// nodes.put(j, node, new Item(item.x, item.y, item.width, item.height,
+				// item.text));
 
-				// вывод в txt
 				try {
-					writer3.write("Node: " + NodeName(node) + "\n");
-					writer3.write("Geometry: x=" + x + ", y=" + y + ", width=" + width + ", height=" + height + "\n");
-					writer3.write("Text: " + text + "\n");
-					writer3.write("-------------------\n");
+					System.out
+							.println(j + " Node: " + NodeName(node) + "\n" + "Geometry: x=" + item.x + ", y=" + item.y +
+									", width=" + item.width + ", height=" + item.height + "\n" + "Text: " + item.text
+									+ "\n" + "-------\n");
+
+					writer3.write(j + " Node: " + NodeName(node) + "\n" + "Geometry: x=" + item.x + ", y=" + item.y +
+							", width=" + item.width + ", height=" + item.height + "\n" + "Text: " + item.text
+							+ "\n" + "-------\n");
 				} catch (IOException e) {
 					e.printStackTrace(System.err);
 				} catch (Exception e) {
 					e.printStackTrace(System.err);
 				}
 			}
-
 			writer3.flush();
 			writer3.close();
-
 		} catch (IOException e) {
 			e.printStackTrace(System.err);
 		} catch (Exception e) {
 			e.printStackTrace(System.err);
+		}
+
+		StringBuilder newData = new StringBuilder();
+		Scanner scanner = new Scanner(System.in);
+
+		newData.append(
+				"Would you like to change the Data of some tag?\nPress 1 to continue or another button to cancel\n");
+		int a = scanner.nextInt();
+		if (a == 1) {
+			int k = -1;
+
+			for (Map.Entry<Node, Item> entry : nodes.entrySet()) {
+				Node node = entry.getKey();
+				Item item = entry.getValue();
+				k += 1;
+
+				try (FileWriter writer4 = new FileWriter("WebKitGeomInfo New Geometry Test.txt")) {
+					newData.append("Input the index of the Node (Tag):");
+					int selectedNode = scanner.nextInt();
+
+					if (selectedNode == k) { // избежания дубликатов
+						// Доступ к свойствам узлов и элемента
+
+						int newX = -1, newY = -1, newW = -1, newH = -1;
+						String newT = "";
+
+						// вывод новой географии
+						newData.append("Input new Geometry of Tag ").append(k).append("\n x= ");
+						newX = scanner.nextInt();
+						newData.append("y= ");
+						newY = scanner.nextInt();
+						newData.append("width= ");
+						newW = scanner.nextInt();
+						newData.append("height= /n");
+						newH = scanner.nextInt();
+						newData.append("Input new text= ");
+						newT = scanner.nextLine();
+						scanner.close();
+
+						// item = entry.getValue();
+						// 4.1. Пересчет геометрии под новыми координатами
+						newX = item.x;
+						newY = item.y;
+						newW = item.width;
+						newH = item.height;
+
+						// 4.2. форматированик текста тега
+						newT = item.text;
+
+						boolean NewGeomStatus;
+						NewGeomStatus = newX == -1 && newY == -1 && newW == -1 && newH == -1; // empty data
+																								// parameters
+						if (!NewGeomStatus) {
+							try {
+								writer4.write("index :" + selectedNode + " Node: " + NodeName(node) + "\n"
+										+ "Geometry: x=" + item.x + ", y=" + item.y + ", width=" + item.width
+										+ ", height=" + item.height + "\n" + "Text: "
+										+ item.text + "\n" + "-------\n");
+
+								System.out.println(selectedNode + " Node: " + NodeName(node) + "\n" + "Geometry: x="
+										+ item.x + ", y=" + item.y +
+										", width=" + item.width + ", height=" + item.height + "\n" + "Text: "
+										+ item.text
+										+ "\n" + "-------\n");
+
+							} catch (IOException e) {
+								e.printStackTrace(System.err);
+							} catch (Exception e) {
+								e.printStackTrace(System.err);
+							}
+						}
+					} else
+						newData.append("Canceled");
+					writer4.flush();
+					writer4.close();
+				} catch (IOException e) {
+					e.printStackTrace(System.err);
+				} catch (Exception e) {
+					e.printStackTrace(System.err);
+				}
+			}
 		}
 	}
 
@@ -192,18 +267,12 @@ public final class WebKitGeomInfo {
 					nodeName = ((Element) node).getTagName(); // Проверка на Элемента
 				}
 				nodeName = NodeName(node);
-				// nodeName = node.getNodeName();
-
 				break;
 
 			// Получение текста
 			case Node.TEXT_NODE:
 				Node parent = node.getParentNode();
-				// получение нода для текстового узла, получив имя узла родительского элемента.
-
 				if (parent != null && parent.getNodeType() == Node.ELEMENT_NODE) {
-					// проверка если текст является дочери элемента
-
 					nodeName = parent.getNodeName();
 				} else {
 					nodeName = "#text-Node";
@@ -227,27 +296,20 @@ public final class WebKitGeomInfo {
 				nodeName = "Unknown";
 				break;
 		}
-
-		// выделение тегов от контента
-		/*
-		 * if (nodeName.equals("div") || nodeName.equals("a") || nodeName.equals("span")
-		 * ||
-		 * nodeName.equals("h1") || nodeName.equals("h2") || nodeName.equals("h3")
-		 * || nodeName.equals("h4") || nodeName.equals("p") || nodeName.equals("h5")
-		 * || nodeName.equals("h6") || nodeName.equals("ul") || nodeName.equals("ol")
-		 * || nodeName.equals("li") || nodeName.equals("table") || nodeName.equals("tr")
-		 * || nodeName.equals("th") || nodeName.equals("td") || nodeName.equals("form")
-		 * || nodeName.equals("input") || nodeName.equals("textarea") ||
-		 * nodeName.equals("select")
-		 * || nodeName.equals("button") || nodeName.equals("script")) {
-		 * return nodeName;
-		 * } else {
-		 * return "Unknown"; // для незнакомых тегов
-		 * }
-		 */
-
-		// просто возращает название тега
 		return nodeName;
+	}
+
+	public Node SelectNode(String nodeName) {
+		for (Map.Entry<Node, Item> entry : nodes.entrySet()) {
+			Node node = entry.getKey();
+			Item item = entry.getValue();
+
+			String currentNode = NodeName(node);
+			if (currentNode.equals(nodeName)) {
+				return node; // Return the selected node
+			}
+		}
+		return null; // Node not found
 	}
 
 	// Конвертация значения геометрия на number
@@ -275,7 +337,7 @@ public final class WebKitGeomInfo {
 	}
 
 	// Геомерия тега
-	static public final class Item {
+	static public class Item {
 		public final int x, y, width, height;
 		public final String text;
 
@@ -334,11 +396,11 @@ public final class WebKitGeomInfo {
 
 			// System.out.println("Visited Node: " + NodeTagName);
 			// Результат в txt
-			try (FileWriter writer4 = new FileWriter("VisitedNodes.txt", true)) {
-				writer4.write("Visited Node: " + NodeTagName + "\n");
+			try (FileWriter writer5 = new FileWriter("VisitedNodes.txt", true)) {
+				writer5.write("Visited Node: " + NodeTagName + "\n");
 
-				writer4.flush();
-				writer4.close();
+				writer5.flush();
+				writer5.close();
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
